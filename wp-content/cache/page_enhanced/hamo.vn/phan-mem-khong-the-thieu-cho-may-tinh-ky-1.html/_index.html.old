@@ -1,0 +1,651 @@
+<!doctype html >
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="vi"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+    
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Chí Giang">
+    <link rel="pingback" href="http://hamo.vn/xmlrpc.php" />
+
+    <meta property="og:image" content="http://hamo.vn/wp-content/uploads/2013/02/133.jpg" /><link rel="icon" type="image/png" href="http://hamo.vn/wp-content/uploads/2015/01/156126_1377368032485440_1378494907_n-150x150.jpg">
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Phần mềm không thể thiếu cho máy tính (Kỳ 1) - Xã Hạ Mỗ</title>
+<meta name="robots" content="noodp,noydir"/>
+<link rel="canonical" href="http://hamo.vn/phan-mem-khong-the-thieu-cho-may-tinh-ky-1.html/" />
+<meta property="og:locale" content="vi_VN" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Phần mềm không thể thiếu cho máy tính (Kỳ 1) - Xã Hạ Mỗ" />
+<meta property="og:description" content="Nếu không phải là dân chuyên ngành IT hoặc ít khi sử dụng máy tính thì chắc hẳn bạn cũng" />
+<meta property="og:url" content="http://hamo.vn/phan-mem-khong-the-thieu-cho-may-tinh-ky-1.html/" />
+<meta property="og:site_name" content="Xã Hạ Mỗ" />
+<meta property="article:tag" content="cong nghe" />
+<meta property="article:tag" content="thu thuat may tinh" />
+<meta property="article:section" content="Thủ thuật" />
+<meta property="article:section" content="Tin mới" />
+<meta property="article:published_time" content="2013-04-20T19:44:56+00:00" />
+<meta property="article:modified_time" content="2013-07-04T19:27:39+00:00" />
+<meta property="og:updated_time" content="2013-07-04T19:27:39+00:00" />
+<meta property="og:image" content="http://hamo.vn/wp-content/uploads/2013/02/133.jpg" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Xã Hạ Mỗ &raquo; Feed" href="http://hamo.vn/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Xã Hạ Mỗ &raquo; Comments Feed" href="http://hamo.vn/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Xã Hạ Mỗ &raquo; Phần mềm không thể thiếu cho máy tính (Kỳ 1) Comments Feed" href="http://hamo.vn/phan-mem-khong-the-thieu-cho-may-tinh-ky-1.html/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/hamo.vn\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f;c.supports={simple:d("simple"),flag:d("flag")},c.supports.simple&&c.supports.flag||(f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='google-font-opensans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=4.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-ubuntu-css'  href='http://fonts.googleapis.com/css?family=Ubuntu%3A300%2C400%2C500%2C700%2C300italic%2C400italic%2C500italic%2C700italic&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Clatin-ext%2Ccyrillic&#038;ver=4.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-pt-sans-css'  href='http://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic&#038;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic&#038;ver=4.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-oswald-css'  href='http://fonts.googleapis.com/css?family=Oswald%3A400%2C300%2C700&#038;subset=latin%2Clatin-ext&#038;ver=4.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-roboto-cond-css'  href='http://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=4.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-vollkorn-css'  href='http://fonts.googleapis.com/css?family=Vollkorn%3A400italic%2C700italic%2C400%2C700&#038;ver=4.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='td-bootstrap-css'  href='http://hamo.vn/wp-content/themes/Newspaper/includes/wp_booster/external/bootstrap/td-bootstrap.css?ver=4.5d' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='http://hamo.vn/wp-content/themes/Newspaper/style.css?ver=4.5d' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_custom_css-css'  href='http://hamo.vn/wp-content/uploads/js_composer/custom.css?ver=4.3.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://hamo.vn/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-37961319-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://hamo.vn/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://hamo.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<meta name="generator" content="WordPress 4.2.1" />
+<meta property="fb:app_id" content="148177838713783"/><!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://hamo.vn/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]-->
+<!-- JS generated by theme -->
+
+<script>
+    
+
+var td_blocks = []; //here we store all the items for the current page
+
+//td_block class - each ajax block uses a object of this class for requests
+function td_block() {
+    this.id = '';
+    this.block_type = 1; //block type id (1-234 etc)
+    this.atts = '';
+    this.td_cur_cat = '';
+    this.td_column_number = '';
+    this.td_current_page = 1; //
+    this.post_count = 0; //from wp
+    this.found_posts = 0; //from wp
+    this.max_num_pages = 0; //from wp
+    this.is_ajax_running = false;
+    this.header_color = '';
+    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+}
+
+    
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+var td_ajax_url="http://hamo.vn/wp-admin/admin-ajax.php";
+var td_get_template_directory_uri="http://hamo.vn/wp-content/themes/Newspaper";
+var tds_snap_menu="";
+var tds_header_style="3";
+var tds_mobile_swipe="";
+var td_search_url="http://hamo.vn/search/";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top="0";
+var tds_theme_color_site_wide="#4db2ec";
+</script>
+
+</head>
+
+<body class="single single-post postid-3440 single-format-standard td-full-layout phan-mem-khong-the-thieu-cho-may-tinh-ky-1 wpb-js-composer js-comp-ver-4.3.4 vc_responsive">
+
+
+
+<div id="outer-wrap">
+    <div id="td-mobile-nav" class="td-transition-content-and-menu">
+    <!-- mobile menu close -->
+    <div class="td-mobile-close">
+        <a href="#">CLOSE</a>
+        <div class="td-nav-triangle"></div>
+    </div>
+
+    <div class="td-mobile-content">
+        <div class="menu-categories-menu-container"><ul id="menu-categories-menu" class=""><li id="menu-item-45" class="trangchu menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first td-no-down-arrow menu-item-45"><a href="http://hamo.vn"><span class="menu_icon td-sp td-sp-ico-home"></span><span class="menu_hidden">Home</span></a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-29"><a href="http://hamo.vn/category/lich-su/">Lịch sử</a>
+<ul class="sub-menu">
+	<li id="menu-item-32" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32"><a href="http://hamo.vn/category/lich-su/hinh-thanh/">Hình thành</a></li>
+	<li id="menu-item-30" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30"><a href="http://hamo.vn/category/lich-su/danh-nhan/">Danh nhân</a></li>
+	<li id="menu-item-31" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31"><a href="http://hamo.vn/category/lich-su/di-tich/">Di tích</a></li>
+	<li id="menu-item-33" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33"><a href="http://hamo.vn/category/lich-su/le-hoi/">Lễ hội</a></li>
+</ul>
+</li>
+<li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-11"><a href="http://hamo.vn/category/dang-uy/">Đảng ủy</a>
+<ul class="sub-menu">
+	<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://hamo.vn/category/dang-uy/ubnd/">UBND</a></li>
+	<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="http://hamo.vn/category/dang-uy/hdnd/">HĐND</a></li>
+	<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://hamo.vn/category/dang-uy/mttq-cac-doan-the/">MTTQ -Các đoàn thể</a></li>
+</ul>
+</li>
+<li id="menu-item-4960" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-4960"><a href="http://hamo.vn/category/van-hoa-doi-song/">Văn hóa &#8211; Đời sống</a>
+<ul class="sub-menu">
+	<li id="menu-item-4962" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4962"><a href="http://hamo.vn/category/van-hoa-doi-song/xd-nong-thon-moi/">XD nông thôn mới</a></li>
+	<li id="menu-item-5158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5158"><a href="http://hamo.vn/category/van-hoa-doi-song/van-hoc-nghe-thuat/">Văn học &#8211; Nghệ thuật</a></li>
+	<li id="menu-item-4964" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4964"><a href="http://hamo.vn/category/van-hoa-doi-song/tho-ca/">Thơ ca</a></li>
+	<li id="menu-item-4963" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4963"><a href="http://hamo.vn/category/van-hoa-doi-song/suc-khoe/">Sức khỏe</a></li>
+</ul>
+</li>
+<li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21"><a href="http://hamo.vn/category/giao-duc/">Giáo dục</a>
+<ul class="sub-menu">
+	<li id="menu-item-2342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2342"><a href="http://hamo.vn/category/mam-non/">Mầm non</a></li>
+	<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="http://hamo.vn/category/giao-duc/truong-tieu-hoc-tht/">TH Tô Hiên Thành</a></li>
+	<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23"><a href="http://hamo.vn/category/giao-duc/truong-thcs-tht/">THCS Tô Hiến Thành</a></li>
+	<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="http://hamo.vn/category/giao-duc/khuyen-hoc/">Khuyến học</a></li>
+	<li id="menu-item-387" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-387"><a href="http://hamo.vn/category/giao-duc/dinh-huong-nghe/">Định hướng nghề</a></li>
+</ul>
+</li>
+<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-25"><a href="http://hamo.vn/category/kinh-te/">Kinh tế</a>
+<ul class="sub-menu">
+	<li id="menu-item-5174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5174"><a href="http://hamo.vn/category/kinh-te/tin-kinh-te/">Tin kinh tế</a></li>
+	<li id="menu-item-386" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-386"><a href="http://hamo.vn/category/kinh-te/nghe-truyen-thong/">Nghề truyền thống</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="http://hamo.vn/category/kinh-te/nong-nghiep/">Nông nghiệp</a></li>
+	<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="http://hamo.vn/category/kinh-te/nghe-khac/">Nghề khác</a></li>
+</ul>
+</li>
+<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-17"><a href="http://hamo.vn/category/cong-nghe/">Công nghệ</a>
+<ul class="sub-menu">
+	<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="http://hamo.vn/category/cong-nghe/pc-laptop/">PC- Laptop</a></li>
+	<li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20"><a href="http://hamo.vn/category/cong-nghe/dien-thoai/">Điện thoại</a></li>
+	<li id="menu-item-19" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-19"><a href="http://hamo.vn/category/cong-nghe/thu-thuat/">Thủ thuật</a></li>
+</ul>
+</li>
+<li id="menu-item-34" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34"><a href="http://hamo.vn/category/the-duc-the-thao/">Thể dục-Thể thao</a>
+<ul class="sub-menu">
+	<li id="menu-item-35" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35"><a href="http://hamo.vn/category/the-duc-the-thao/bong-da/">Bóng đá</a></li>
+	<li id="menu-item-37" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37"><a href="http://hamo.vn/category/the-duc-the-thao/cau-long/">Cầu lông</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36"><a href="http://hamo.vn/category/the-duc-the-thao/cac-mon-khac/">Các môn khác</a></li>
+</ul>
+</li>
+<li id="menu-item-10893" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10893"><a href="http://raovat.hamo.vn">Rao vặt</a></li>
+</ul></div>    </div>
+</div>    <div id="inner-wrap" class="td-transition-content-and-menu">
+
+<!-- full width logo -->
+<div class="td-header-bg">
+    <div class="container header-style-3">
+        <div class="row">
+            <div class="span12 td-full-logo" role="banner" itemscope="itemscope" itemtype="http://schema.org/Organization">
+                <div class="td-grid-wrap">
+                    <div class="container-fluid">
+                                                        <a class="td-logo" itemprop="url" href="http://hamo.vn"><img src="http://hamo.vn/wp-content/uploads/2015/01/main.png" alt=""/></a>
+                                <meta itemprop="name" content="Xã Hạ Mỗ">
+                                                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- header menu -->
+
+<div class="td-menu-placeholder">
+
+    <div class="td-menu-background">
+        <div class="container td-menu-wrap">
+
+
+
+            <div class="row-fluid td-menu-header">
+
+                <div class="span11">
+                    
+
+                    <div id="td-top-mobile-toggle">
+                        <ul class="sf-menu">
+                            <li>
+                                <a href="#">
+                                    <span class="menu_icon td-sp td-sp-ico-menu"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div id="td-top-menu" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+
+                            <div class="menu-categories-menu-container"><ul id="menu-categories-menu-1" class="sf-menu"><li class="trangchu menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first td-no-down-arrow td-menu-item td-normal-menu menu-item-45"><a href="http://hamo.vn"><span class="menu_icon td-sp td-sp-ico-home"></span><span class="menu_hidden">Home</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-29"><a href="http://hamo.vn/category/lich-su/">Lịch sử</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-32"><a href="http://hamo.vn/category/lich-su/hinh-thanh/">Hình thành</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-30"><a href="http://hamo.vn/category/lich-su/danh-nhan/">Danh nhân</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-31"><a href="http://hamo.vn/category/lich-su/di-tich/">Di tích</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-33"><a href="http://hamo.vn/category/lich-su/le-hoi/">Lễ hội</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-11"><a href="http://hamo.vn/category/dang-uy/">Đảng ủy</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-14"><a href="http://hamo.vn/category/dang-uy/ubnd/">UBND</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-12"><a href="http://hamo.vn/category/dang-uy/hdnd/">HĐND</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-15"><a href="http://hamo.vn/category/dang-uy/mttq-cac-doan-the/">MTTQ -Các đoàn thể</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-4960"><a href="http://hamo.vn/category/van-hoa-doi-song/">Văn hóa &#8211; Đời sống</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4962"><a href="http://hamo.vn/category/van-hoa-doi-song/xd-nong-thon-moi/">XD nông thôn mới</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-5158"><a href="http://hamo.vn/category/van-hoa-doi-song/van-hoc-nghe-thuat/">Văn học &#8211; Nghệ thuật</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4964"><a href="http://hamo.vn/category/van-hoa-doi-song/tho-ca/">Thơ ca</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4963"><a href="http://hamo.vn/category/van-hoa-doi-song/suc-khoe/">Sức khỏe</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-21"><a href="http://hamo.vn/category/giao-duc/">Giáo dục</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-2342"><a href="http://hamo.vn/category/mam-non/">Mầm non</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-22"><a href="http://hamo.vn/category/giao-duc/truong-tieu-hoc-tht/">TH Tô Hiên Thành</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-23"><a href="http://hamo.vn/category/giao-duc/truong-thcs-tht/">THCS Tô Hiến Thành</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-24"><a href="http://hamo.vn/category/giao-duc/khuyen-hoc/">Khuyến học</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-387"><a href="http://hamo.vn/category/giao-duc/dinh-huong-nghe/">Định hướng nghề</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-25"><a href="http://hamo.vn/category/kinh-te/">Kinh tế</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-5174"><a href="http://hamo.vn/category/kinh-te/tin-kinh-te/">Tin kinh tế</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-386"><a href="http://hamo.vn/category/kinh-te/nghe-truyen-thong/">Nghề truyền thống</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-28"><a href="http://hamo.vn/category/kinh-te/nong-nghiep/">Nông nghiệp</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-27"><a href="http://hamo.vn/category/kinh-te/nghe-khac/">Nghề khác</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children td-menu-item td-normal-menu menu-item-17"><a href="http://hamo.vn/category/cong-nghe/">Công nghệ</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-18"><a href="http://hamo.vn/category/cong-nghe/pc-laptop/">PC- Laptop</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-20"><a href="http://hamo.vn/category/cong-nghe/dien-thoai/">Điện thoại</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent td-menu-item td-normal-menu menu-item-19"><a href="http://hamo.vn/category/cong-nghe/thu-thuat/">Thủ thuật</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-34"><a href="http://hamo.vn/category/the-duc-the-thao/">Thể dục-Thể thao</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-35"><a href="http://hamo.vn/category/the-duc-the-thao/bong-da/">Bóng đá</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-37"><a href="http://hamo.vn/category/the-duc-the-thao/cau-long/">Cầu lông</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-36"><a href="http://hamo.vn/category/the-duc-the-thao/cac-mon-khac/">Các môn khác</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-10893"><a href="http://raovat.hamo.vn">Rao vặt</a></li>
+</ul></div>                    </div>
+
+
+
+                </div>
+
+                <div class="span1" id="td-top-search">
+                    <!-- Search -->
+                    <div class="header-search-wrap">
+                        <div class="dropdown header-search">
+                            <a id="search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><span class="td-sp td-sp-ico-search"></span></a>
+                            <div class="dropdown-menu" aria-labelledby="search-button">
+                                <form role="search" method="get" class="td-search-form" action="http://hamo.vn/">
+                                    <div class="td-head-form-search-wrap">
+                                        <input class="needsclick" id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+                                    </div>
+                                </form>
+                                <div id="td-aj-search"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div> <!-- /.row-fluid -->
+        </div> <!-- /.td-menu-wrap -->
+    </div> <!-- /.td-menu-background -->
+</div> <!-- /.td-menu-placeholder --><div class="container header-content-rec">
+    <div class="row">
+        <div class="span12">
+                    </div>
+    </div>
+</div>
+        <div class="container td-page-wrap">
+            <div class="row">
+                <div class="span12">
+                    <div class="td-grid-wrap">
+                        <div class="container-fluid">
+                            <div class="row-fluid ">
+                        <div class="span8 column_container td-post-content" role="main" itemprop="mainContentOfPage">
+                    <div class="entry-crumbs"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="" class="entry-crumb" itemprop="url" href="http://hamo.vn"><span itemprop="title">Home</span></a></span> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="View all posts in Công nghệ" class="entry-crumb" itemprop="url" href="http://hamo.vn/category/cong-nghe/"><span itemprop="title">Công nghệ</span></a></span> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="View all posts in Thủ thuật" class="entry-crumb" itemprop="url" href="http://hamo.vn/category/cong-nghe/thu-thuat/"><span itemprop="title">Thủ thuật</span></a></span> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><meta itemprop="title" content = "Phần mềm không thể thiếu cho máy tính (Kỳ 1)">Phần mềm không thể thiếu cho máy tính (Kỳ 1)</span></div>
+        <article id="post-3440" class="post-3440 post type-post status-publish format-standard has-post-thumbnail hentry category-thu-thuat category-tin-moi tag-cong-nghe-2 tag-thu-thuat-may-tinh" itemscope itemtype="http://schema.org/Article">
+
+        <header>
+
+            <h1 itemprop="name" class="entry-title">Phần mềm không thể thiếu cho máy tính (Kỳ 1)</h1>
+            <div class="meta-info">
+                <ul class="td-category"><li class="entry-category"><a  href="http://hamo.vn/category/cong-nghe/">Công nghệ</a></li><li class="entry-category"><a  href="http://hamo.vn/category/cong-nghe/thu-thuat/">Thủ thuật</a></li><li class="entry-category"><a  href="http://hamo.vn/category/tin-moi/">Tin mới</a></li></ul>                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2013-04-20T19:44:56+00:00" >Apr 20, 2013</time><meta itemprop="interactionCount" content="UserComments:4"/>                <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://hamo.vn/phan-mem-khong-the-thieu-cho-may-tinh-ky-1.html/#comments"></span>4 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-3440">33</span></div>            </div>
+        </header>
+
+
+        
+
+        
+        <div class="td-post-text-content">
+            <p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; font-weight: bold;">Nếu không phải là dân chuyên ngành IT hoặc ít khi sử dụng máy tính thì chắc hẳn bạn cũng sẽ gặp 1 số biểu hiện như :&#8217; Tại sao máy tính của tôi lại chạy chậm thể nhỉ?&#8217;,&#8217; Sao cái này lại không đọc được bằng word nhỉ?&#8217;, &#8216;Cái này là cái gì lại không thể mở được &#8216;hay &#8216; Tại sao máy mình download chậm như rùa bò nhỉ?&#8217; &#8230;..</span></p>
+<p style="text-align: center;"><img class="aligncenter" alt="" src="http://growinginsights.files.wordpress.com/2012/03/computer-problem.jpg" width="768" height="512" /></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Nếu máy tính của bạn mắc phải một số bệnh như thì bài viết này có thể hữu ích đối với bạn.</span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Bởi vì đây là những phần mềm rất hữu dụng cũng như phổ biến cần cài cho 1 máy tinh(Nếu bạn nào nghĩ rằng cái này tầm thường quá thì Hamo.vn rất xin lỗi các bạn, mong các bạn ghé các mục khác để thưởng thức những bài viết bổ ích khác, Mục tiêu của bài này chúng  chúng tôi chỉ muốn phổ cập tin học tới với người dân Hạ Mỗ mong sao người dân chúng ta ngày càng văn minh và xã hội ta ngày càng phát triển hơn nữa mà thôi, vì vậy chúng tôi chỉ đưa tới những kiến thức cơ bản tới với cho mọi người)</span></p>
+<p style="font-weight: bold;">[infobox type=&#8221;warning&#8221; clickable=&#8221;yes&#8221;]<span style="font-size: large; font-family: tahoma, arial, helvetica, sans-serif;">Mật khẩu để tải phần mềm nếu có là Hamo.vn</span>[/infobox]</p>
+<h2><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: x-large;">Phần mềm giải nén file đuôi .rar</span></h2>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Khi bạn download 1 cái gì đó trên mạng(bài tiểu luận, bài thi học kỳ..)  mà khi mở(open),  mở đi mở lại không mở được, bực mình quá nghĩ rằng vứt quách nó đi, nhưng xin bạn hãy nán lại đôi chút, nếu nó mắc bệnh là nó bị nén file  thì đây là  thuốc dành cho bạn khỏi bực tức đấy !</span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;"><img class="aligncenter" alt="" src="http://download123.vn/cf/images/1/ac_winrar2.jpg" width="640" height="480" /></span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium; font-family: tahoma, arial, helvetica, sans-serif;">Phần mềm WinRAR là phần mềm giải nén,nén, định dạng nén có thể giải nén hầu hết các định dạng lưu trữ, cũng như nén RAR và ZIP. download winrar nhanh,gọn nhẹ, dễ sử dụng, rất cần thiết đối với các máy tính</span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">[sexybutton size=&#8221;xl&#8221; color=&#8221;magenta&#8221; url=&#8221;http://www.mediafire.com/?9n9bztkmrl5w1il&#8221; icon=&#8221;download2&#8243;]Tải phần mềm tại đây[/sexybutton]</span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;"> </span></p>
+<h2><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: x-large;">Bộ gõ tiếng việt Unikey</span></h2>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Các bạn đang loay hoay tại sao người ta đánh được tiếng việt mà mình lại không ? </span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Bạn muốn gõ tiếng việt mà không gặp một số lỗi phát sinh</span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Nếu bạn gặp những rắc rối trên thì chúng tôi khuyên bạn nên dùng Unikey cho máy tính của bạn</span></p>
+<p><img class="aligncenter" alt="" src="http://img2.phanvien.com/2011/10/29/1/unikey-bo-go-tieng-viet-mien-phi-3.jpg" width="256" height="256" /></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Một số ưu điểm của Unikey</span></p>
+<ul>
+<li><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Unikey dùng miễn phí</span></li>
+<li><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Unikey rất ít khi xảy ra lỗi</span></li>
+<li><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Unikey có dung lượng nhỏ nên nhẹ nhàng cho máy tính của bạn</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">[sexybutton size=&#8221;xl&#8221; color=&#8221;black&#8221; url=&#8221;http://www.mediafire.com/?x3xdi3hh25tmc2p&#8221; icon=&#8221;download&#8221;]Tải phần mềm tại đây[/sexybutton]</span></p>
+<h2><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: x-large;">Phần mềm download nhanh nhất</span></h2>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Bạn cảm tháy thật mất thời gian khi download cái gì đó bởi tấc độ download mặc định của các công cụ trình duyệt hay đơn giản bạn muốn tiết kiệm thời gian </span></p>
+<p><img class="aligncenter" alt="" src="http://www.pxleyes.com/images/contests/stone%20turtle/fullsize/stone%20turtle_4c0150a2403fc.jpg" width="600" height="450" /></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Nếu các bạn gặp các rắc rối như trên thì hãy yên tâm, sau đây chúng tôi xin giới thiệu với các bạn 1 phần mềm download rất phố biến hiện nay, đó là Internet Download Manager(IDM)</span></p>
+<p><span style="font-size: medium; font-family: tahoma, arial, helvetica, sans-serif;">Video sau sẽ hướng dẫn các bạn cài đặt IDM nhé</span></p>
+<p>&nbsp;</p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;"><iframe src="http://www.youtube.com/embed/T_keEXBOdII" height="350" width="425" frameborder="0"></iframe></span></p>
+<p>&nbsp;</p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Chú ý đọc file hướng dẫn trong folder tải về để làm theo cho chính xác nhé</span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">[sexybutton size=&#8221;xl&#8221; color=&#8221;black&#8221; url=&#8221;http://www.mediafire.com/?lu1g85whk5o9sql&#8221; icon=&#8221;download&#8221;]Tải phần mềm tại đây[/sexybutton]</span></p>
+<h2><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: x-large; font-weight: bold;">Phần mềm điều khiển máy tính của người khác</span></h2>
+<p style="font-weight: bold;">[note color=&#8221;#fc0361&#8243;]<span style="font-size: large; font-family: tahoma, arial, helvetica, sans-serif;">Bạn đã xem qua chưa ?</span>[/note]</p>
+<p style="font-weight: bold;"><span style="text-decoration: underline;"><span style="font-size: medium;"><a href="http://hamo.vn/phan-mem-khong-the-thieu-cho-may-tinh-ky-1.html" target="_blank">12 mẹo nhỏ để làm việc trên máy tính hiệu quả</a></span></span></p>
+<p style="font-weight: bold;"><span style="text-decoration: underline;"><span style="font-size: medium;"><a href="http://hamo.vn/phan-mem-khong-the-thieu-cho-may-tinh-ky-1.html" target="_blank">[Thủ thuật Facebook] Chỉ bật tính năng Chat với một số người nhất định</a></span></span></p>
+<p style="font-weight: bold;"><span style="text-decoration: underline;"><span style="font-size: medium;"><a href="http://hamo.vn/phan-mem-khong-the-thieu-cho-may-tinh-ky-1.html" target="_blank">Hướng dẫn truy cập vào facebook khi bị chặn dùng cho HĐH Windows XP và 7.</a></span></span></p>
+<p><span style="font-size: medium; font-family: tahoma, arial, helvetica, sans-serif;">Một lần tôi đang ở Hải Dương, có đứa bạn gọi cho tôi và nói &#8220;Mày xuống nhà anh cài cho anh cái phần mềm diệt virut&#8221;, Tôi nói &#8220;Em đang ở Hải Dương thì tới nhà làm sao được&#8221;</span></p>
+<p><span style="font-size: medium; font-family: tahoma, arial, helvetica, sans-serif;">Chắc hẳn là ông anh buồn chán lắm , nhưng tôi đáp lại ngay, anh bật máy tính lên và download cái này về cho em.Sau khi download và cài đặt như hướng dẫn tôi chỉ , cuối cùng tôi cũng vẫn cài được cho anh tôi phần mềm diệt virut mà không cần tới nhà anh tôi. </span></p>
+<p>[spoiler title=&#8221;Các bạn đoán nó là cái gì không?&#8221;]<span style="font-size: medium; font-family: tahoma, arial, helvetica, sans-serif;">Team Viewer</span>[/spoiler]</p>
+<p><span style="font-size: medium; font-family: tahoma, arial, helvetica, sans-serif;">Đó là cái phần mềm tôi sẽ giới thiệu ngay sau đây</span></p>
+<p><img class="aligncenter" alt="" src="http://nsoft.vn/upload/21232f297a57a5a743894a0e4a801fc3/PhanMemtienich/san_pham_teamviewer.jpg" width="610" height="362" /></p>
+<p><span style="font-size: medium; font-family: tahoma, arial, helvetica, sans-serif;">Nếu nói theo chính thông</span></p>
+<p><span style="font-size: medium; font-family: tahoma, arial, helvetica, sans-serif;">Điều khiển máy tính từ xa qua internet giống như bạn đang ngồi trước máy tính đó,dù bạn đang hỗ trợ tức thời, quản trị máy chủ hay làm việc tại nhà, ..</span></p>
+<p><span style="font-size: medium; font-family: tahoma, arial, helvetica, sans-serif;">còn nôm na thì các bạn có thể hiểu là :Nếu 2 máy cùng cái phần mềm này, ngồi tại 1 máy có thể điều khiển được máy kia</span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium; font-family: tahoma, arial, helvetica, sans-serif;">1 số tính năng chính của Team Viewer như sau:</span></p>
+<ul>
+<li><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Hỗ trợ cho bạn bè, đồng nghiệp, người thân hoặc khách hàng từ xa</span></li>
+<li><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Thuyết trình hoặc chia sẻ màn hình trực tuyến</span></li>
+<li><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Chỉnh sửa các thiết lập của máy tính khách từ xa.</span></li>
+</ul>
+<p><span style="font-size: medium; font-family: tahoma, arial, helvetica, sans-serif;">Các bạn có thể download tại <a href="http://www.teamviewer.com/vi/download/windows.aspx" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.teamviewer.com/vi/download/windows.aspx', 'Đây');" style="font-weight: bold;"  target="_blank">Đây</a></span></p>
+<p><span style="font-size: medium; font-family: tahoma, arial, helvetica, sans-serif;">Để được hướng dẫn các bạn có thể xem qua video sau</span></p>
+<p><iframe src="http://www.youtube.com/embed/vzKLHvnK_XI" height="350" width="425" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<h2></h2>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;">Tạm thời chúng tôi chỉ giới thiệu một số phần mềm cơ bản này, nếu được các bạn ủng hộ, chúng tôi sẽ giới thiệu tiếp một số phần mềm hữu ích hơn nữa </span></p>
+<p><span style="font-size: medium;">Các bạn có thắc mắc hoặc vấn đề gì xin hãy gửi về địa chỉ lienhe@hamo.vn hoặc qua <a href="http://www.hamo.vn/phan-mem-khong-the-thieu-cho-may-tinhky-2" target="_blank">facebook </a> của nhóm để được chúng tôi hỗ trợ nhiều hơn nữa nhé </span></p>
+<p style="font-weight: bold;"><span style="font-size: medium;">Nếu các bạn muốn tìm hiểu thêm về 1 số kĩ năng về máy tính hoặc những phần mềm cơ bản hãy liên hệ riêng với tôi qua <a href="http://www.hamo.vn/phan-mem-khong-the-thieu-cho-may-tinhky-2" target="_blank">đây</a> với mục đích trao đổi cùng có lợi nhé !</span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: large;">Chỉ mong mọi người có thể chia sẻ cho những người bạn của bạn, gia đình bạn website Hamo.vn để Hamo.vn được biết đến ngày một rộng lớn hơn nữa !</span></p>
+<p>&nbsp;</p>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ --><h3>Comments</h3><p><fb:comments-count href=http://hamo.vn/phan-mem-khong-the-thieu-cho-may-tinh-ky-1.html/></fb:comments-count> Bình luận</p><div class="fb-comments" data-href="http://hamo.vn/phan-mem-khong-the-thieu-cho-may-tinh-ky-1.html/" data-num-posts="5" data-width="450" data-colorscheme="light"></div>        </div>
+
+
+        <div class="clearfix"></div>
+
+        <footer>
+                                                
+            <div class="td-social-sharing">
+                <div class="td-tags-and-social-wrapper-box "> <ul class="td-tags clearfix"><li><span class="td-tag-black">TAGS</span></li><li><a href="http://hamo.vn/tag/cong-nghe-2/">cong nghe</a></li><li><a href="http://hamo.vn/tag/thu-thuat-may-tinh/">thu thuat may tinh</a></li></ul></div>
+                <div class="td-tags-and-social-wrapper-box td-tags-and-social-wrapper-box-bottom-line">
+                    <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Ph%E1%BA%A7n+m%E1%BB%81m+kh%C3%B4ng+th%E1%BB%83+thi%E1%BA%BFu+cho+m%C3%A1y+t%C3%ADnh+%28K%E1%BB%B3+1%29&url=http%3A%2F%2Fhamo.vn%2Fphan-mem-khong-the-thieu-cho-may-tinh-ky-1.html%2F&via=X%C3%A3+H%E1%BA%A1+M%E1%BB%97" onclick="if(!document.getElementById('td_social_networks_buttons')){window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;}" ><div class="td-sp td-sp-share-twitter"></div><div class="td-social-but-text">Twitter</div></a>
+                    <a class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhamo.vn%2Fphan-mem-khong-the-thieu-cho-may-tinh-ky-1.html%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-share-facebook"></div><div class="td-social-but-text">Facebook</div></a>
+                    <a class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=http://hamo.vn/phan-mem-khong-the-thieu-cho-may-tinh-ky-1.html/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-share-google"></div><div class="td-social-but-text">Google +</div></a>
+                    <a class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=http://hamo.vn/phan-mem-khong-the-thieu-cho-may-tinh-ky-1.html/&amp;media=http://hamo.vn/wp-content/uploads/2013/02/133.jpg" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-share-pinterest"></div><div class="td-social-but-text">Pinterest</div></a>
+                </div></div>                        <div class="wpb_row row-fluid next-prev"><div class="span6 prev-post"><div><img width="6" class="td-retina" src="http://hamo.vn/wp-content/themes/Newspaper/images/icons/similar-left.png" alt=""/>Previous article</div><a href="http://hamo.vn/gio-to-hung-vuong-tai-ha-mo-2.html/">Giỗ tổ Hùng Vương tại Hạ Mỗ</a></div><div class="span6 next-post"><div>Next article<img width="6" class="td-retina" src="http://hamo.vn/wp-content/themes/Newspaper/images/icons/similar-right.png" alt=""/></div><a href="http://hamo.vn/dai-hoi-khuyen-hoc-xa-ha-mo-nhiem-ky-2012-2017.html/">Đại hội khuyến học xã Hạ Mỗ nhiệm kỳ 2012 – 2017</a></div></div>            <div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="http://hamo.vn/author/">Chí Giang</a></span></div>
+
+            <a href="https://plus.google.com/+giangnguyenchi64?rel=author"></a><meta itemprop="author" content = "Chí Giang">        </footer>
+
+    </article> <!-- /.post -->
+
+    <div class="art-img-text-down similar-articles"><h4 class="block-title"><span>SIMILAR ARTICLES</span></h4>
+
+	<div class="wpb_row row-fluid">
+
+	<div class="span6">
+
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+        <div class="thumb-wrap"><a href="http://hamo.vn/ruou-ha-mo.html/" rel="bookmark" title="Cay nồng rượu Hạ Mỗ"><img width="126" height="159" itemprop="image" class="entry-thumb" src="http://hamo.vn/wp-content/uploads/2014/03/43569_412901.jpg" alt="" title="Cay nồng rượu Hạ Mỗ"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://hamo.vn/ruou-ha-mo.html/" rel="bookmark" title="Cay nồng rượu Hạ Mỗ">Cay nồng rượu Hạ Mỗ</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2015-01-21T08:57:54+00:00" >Jan 21, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://hamo.vn/ruou-ha-mo.html/#comments"></span>0 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-6824">120</span></div>        </div>
+
+
+        <meta itemprop="author" content = "Quang Công">        </div>
+
+        
+	</div> <!-- ./span6 -->
+
+	<div class="span6">
+
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+        <div class="thumb-wrap"><a href="http://hamo.vn/tay-treo-cay-chuoi-o-le-hoi-lang-ha-mo.html/" rel="bookmark" title="&#8220;Tây&#8221; trèo cây chuối ở lễ hội làng Hạ Mỗ"><img width="212" height="159" itemprop="image" class="entry-thumb" src="http://hamo.vn/wp-content/uploads/2013/03/Untitled-2.gif" alt="&quot;Tây&quot; trèo cây chuối ở lễ hội làng Hạ Mỗ" title="&#8220;Tây&#8221; trèo cây chuối ở lễ hội làng Hạ Mỗ"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://hamo.vn/tay-treo-cay-chuoi-o-le-hoi-lang-ha-mo.html/" rel="bookmark" title="&#8220;Tây&#8221; trèo cây chuối ở lễ hội làng Hạ Mỗ">&#8220;Tây&#8221; trèo cây chuối ở lễ hội làng Hạ Mỗ</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2015-01-18T17:10:41+00:00" >Jan 18, 2015</time><meta itemprop="interactionCount" content="UserComments:8"/>            <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://hamo.vn/tay-treo-cay-chuoi-o-le-hoi-lang-ha-mo.html/#comments"></span>8 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-2309">136</span></div>        </div>
+
+
+        <meta itemprop="author" content = "ĐH P">        </div>
+
+        
+	</div> <!-- ./span6 --></div><!--./row-fluid--></div>
+                        <div class="comments" id="comments">
+                                                                                                <div class="comments-title-wrap">
+                                                                                <h4 class="block-title"><span>4 COMMENTS</span></h4>
+                                    </div>
+
+                                                                                            						<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/phan-mem-khong-the-thieu-cho-may-tinh-ky-1.html/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://hamo.vn/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+																										<p class="comment-form-input-wrap">
+            <span class="comment-req-wrap needsclick"><input class="" id="author" name="author" placeholder="Name:" type="text" value="" size="30" /></p>
+<p class="comment-form-input-wrap">
+            <span class="comment-req-wrap needsclick"><input class="" id="email" name="email" placeholder="Email:" type="text" value="" size="30" /></p>
+<p class="comment-form-input-wrap needsclick">
+            <input class="" id="url" name="url" placeholder="Website:" type="text" value="" size="30" /></p>
+												<div class="clearfix"></div><p class="comment-form-input-wrap"><textarea class="needsclick" placeholder="Comment:" id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='3440' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>					</form>
+							</div><!-- #respond -->
+			                                                    </div> <!-- /.content -->
+
+
+                </div>
+                <div class="span4 column_container td-post-sidebar" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+                    <script>var block_td_uid_1_556c25e913ab5 = new td_block();
+block_td_uid_1_556c25e913ab5.id = "td_uid_1_556c25e913ab5";
+block_td_uid_1_556c25e913ab5.atts = '{"category_id":"","category_ids":"","tag_slug":"","sort":"","autors_id":"","hide_title":"","installed_post_types":"","limit":"5","offset":"","header_color":"#","header_text_color":"#","custom_title":"Tin m\u1edbi","custom_url":"","title_style":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","ajax_pagination_infinite_stop":""}';
+block_td_uid_1_556c25e913ab5.td_cur_cat = "";
+block_td_uid_1_556c25e913ab5.td_column_number = "1";
+block_td_uid_1_556c25e913ab5.block_type = "3";
+block_td_uid_1_556c25e913ab5.post_count = "5";
+block_td_uid_1_556c25e913ab5.found_posts = "675";
+block_td_uid_1_556c25e913ab5.max_num_pages = "135";
+block_td_uid_1_556c25e913ab5.header_color = "#";
+block_td_uid_1_556c25e913ab5.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_1_556c25e913ab5);
+</script><div class="td_block_wrap td_block3"><h4 class="block-title"><span >Tin mới</span></h4><style>.ui-sctd_uid_1_556c25e913ab5 .cur-sub-cat { color:# !important}</style><div id=td_uid_1_556c25e913ab5 class="td_block_inner">
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+        <div class="thumb-wrap"><a href="http://hamo.vn/dem-giao-luu-van-nghe-cau-lac-bo-195.html/" rel="bookmark" title="Đêm giao lưu văn nghệ  Câu lạc bộ 19/5"><img width="326" height="159" itemprop="image" class="entry-thumb" src="http://hamo.vn/wp-content/uploads/2015/05/17296778704_d1011fbccb_z-326x159.jpg" alt="" title="Đêm giao lưu văn nghệ  Câu lạc bộ 19/5"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://hamo.vn/dem-giao-luu-van-nghe-cau-lac-bo-195.html/" rel="bookmark" title="Đêm giao lưu văn nghệ  Câu lạc bộ 19/5">Đêm giao lưu văn nghệ  Câu lạc bộ 19/5</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2015-05-22T18:04:09+00:00" >May 22, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://hamo.vn/dem-giao-luu-van-nghe-cau-lac-bo-195.html/#comments"></span>0 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-11776">13</span></div>        </div>
+
+
+        <meta itemprop="author" content = "Chí Giang">        </div>
+
+        
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+        <div class="thumb-wrap"><a href="http://hamo.vn/dai-hoi-dai-bieu-dang-bo-xa-ha-mo-lan-thu-xix-nhiem-ki-2015-2020.html/" rel="bookmark" title="ĐẠI HỘI ĐẠI BIỂU ĐẢNG BỘ XÃ HẠ MỖ LẦN THỨ XIX  (NHIỆM KÌ 2015 – 2020)"><img width="326" height="159" itemprop="image" class="entry-thumb" src="http://hamo.vn/wp-content/uploads/2015/05/11251734_870445609688384_7311696915420427126_n1-326x159.jpg" alt="" title="ĐẠI HỘI ĐẠI BIỂU ĐẢNG BỘ XÃ HẠ MỖ LẦN THỨ XIX  (NHIỆM KÌ 2015 – 2020)"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://hamo.vn/dai-hoi-dai-bieu-dang-bo-xa-ha-mo-lan-thu-xix-nhiem-ki-2015-2020.html/" rel="bookmark" title="ĐẠI HỘI ĐẠI BIỂU ĐẢNG BỘ XÃ HẠ MỖ LẦN THỨ XIX  (NHIỆM KÌ 2015 – 2020)">ĐẠI HỘI ĐẠI BIỂU ĐẢNG BỘ XÃ HẠ MỖ LẦN THỨ XIX  (NHIỆM KÌ 2015 – 2020)</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2015-05-21T10:36:14+00:00" >May 21, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://hamo.vn/dai-hoi-dai-bieu-dang-bo-xa-ha-mo-lan-thu-xix-nhiem-ki-2015-2020.html/#comments"></span>0 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-11746">145</span></div>        </div>
+
+
+        <meta itemprop="author" content = "Cúc Bùi">        </div>
+
+        
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+        <div class="thumb-wrap"><a href="http://hamo.vn/vi-giam-doc-mot-phut-pdfaudio.html/" rel="bookmark" title="Vị giám đốc một phút (PDF+Audio)"><img width="101" height="159" itemprop="image" class="entry-thumb" src="http://hamo.vn/wp-content/uploads/2013/06/ViGiamdoc1phutpng1.jpg" alt="" title="Vị giám đốc một phút (PDF+Audio)"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://hamo.vn/vi-giam-doc-mot-phut-pdfaudio.html/" rel="bookmark" title="Vị giám đốc một phút (PDF+Audio)">Vị giám đốc một phút (PDF+Audio)</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2015-05-01T23:06:37+00:00" >May 1, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://hamo.vn/vi-giam-doc-mot-phut-pdfaudio.html/#comments"></span>0 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-4889">44</span></div>        </div>
+
+
+        <meta itemprop="author" content = "Chí Giang">        </div>
+
+        
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+        <div class="thumb-wrap"><a href="http://hamo.vn/bill-gates-da-noi-billgates-speak-audio-pdf.html/" rel="bookmark" title="Bill Gates đã nói &#8211; BillGates Speak (Audio + PDF)"><img width="116" height="159" itemprop="image" class="entry-thumb" src="http://hamo.vn/wp-content/uploads/2013/06/749_Bill-Gates-da-noi-Bill-Gates-speaks1.jpg" alt="" title="Bill Gates đã nói &#8211; BillGates Speak (Audio + PDF)"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://hamo.vn/bill-gates-da-noi-billgates-speak-audio-pdf.html/" rel="bookmark" title="Bill Gates đã nói &#8211; BillGates Speak (Audio + PDF)">Bill Gates đã nói &#8211; BillGates Speak (Audio + PDF)</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2015-05-01T23:06:26+00:00" >May 1, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://hamo.vn/bill-gates-da-noi-billgates-speak-audio-pdf.html/#comments"></span>0 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-4809">19</span></div>        </div>
+
+
+        <meta itemprop="author" content = "Chí Giang">        </div>
+
+        
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+        <div class="thumb-wrap"><a href="http://hamo.vn/hop-mat-cuu-chien-binh-dai-doi-11.html/" rel="bookmark" title="Họp mặt cựu chiến binh Đại đội 11"><img width="326" height="159" itemprop="image" class="entry-thumb" src="http://hamo.vn/wp-content/uploads/2015/05/17323770801_606710b918_z2-326x159.jpg" alt="" title="Họp mặt cựu chiến binh Đại đội 11"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://hamo.vn/hop-mat-cuu-chien-binh-dai-doi-11.html/" rel="bookmark" title="Họp mặt cựu chiến binh Đại đội 11">Họp mặt cựu chiến binh Đại đội 11</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2015-05-01T20:03:03+00:00" >May 1, 2015</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://hamo.vn/hop-mat-cuu-chien-binh-dai-doi-11.html/#comments"></span>0 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-11711">86</span></div>        </div>
+
+
+        <meta itemprop="author" content = "THư Bùi">        </div>
+
+        </div></div> <!-- ./block1 --><aside class="widget widget_text">			<div class="textwidget"><a href="http://sieuthibepgas.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://sieuthibepgas.com', '');" target="_blank"><img src="http://hamo.vn/wp-content/uploads/2014/12/sieu-thi-bep-gas.png" /></a> 
+<a href="http://sieuthibepgas.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://sieuthibepgas.com', '');" target="_blank"><img src="http://hamo.vn/wp-content/uploads/2014/12/bia-thanh-den.jpg" /></a> </div>
+		</aside>                </div>
+            
+                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="td-footer-wrap">
+        <div class="container">
+            <div class="row">
+                
+                        <div class="span12">
+                            <div class="td-grid-wrap">
+                                <div class="container-fluid">
+                                    <div class="wpb_row row-fluid ">
+                                        <div class="span12 wpb_column column_container">
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                                    </div>
+        </div>
+    </div> <!-- /.td-footer-wrap  -->
+
+
+
+<div class="td-sub-footer-wrap">
+    <div class="container ">
+        <div class="row">
+            <div class="span12">
+                <div class="td-grid-wrap">
+                    <div class="container-fluid">
+                        <div class="row-fluid ">
+                            <div class="span4 td-sub-footer-copy">
+                                &copy; Copyright 2014 - Hamo.vn                            </div>
+                            <div class="span8 td-sub-footer-menu">
+
+                                <div class="menu-page-menu-container"><ul id="menu-page-menu" class=""><li id="menu-item-4993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-4993"><a href="http://hamo.vn/qui-dinh-chung/">Tôn chỉ</a></li>
+<li id="menu-item-493" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-493"><a href="http://hamo.vn/nhom-lam-website/">Nhóm làm website</a></li>
+<li id="menu-item-4999" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-4999"><a href="http://hamo.vn/danh-sach-tai-tro-website/">Danh sách tài trợ website</a></li>
+<li id="menu-item-492" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-492"><a href="http://hamo.vn/danh-sach-sinh-vien-cuu-sv/">Danh sách sinh viên &#8211; cựu sv</a></li>
+<li id="menu-item-2377" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-2377"><a href="http://hamo.vn/hoi-dong-huong/">Hội đồng hương</a></li>
+<li id="menu-item-638" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-638"><a href="http://hamo.vn/lien-he/">Liên hệ</a></li>
+</ul></div>                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+<!--/#inner-wrap-->
+</div>
+<!--/#outer-wrap-->
+
+<div class="td-sp td-scroll-up"></div>
+
+
+
+    <!--
+
+        Theme: Newspaper by tagDiv 2014
+        Version: 4.5d (rara)
+        Deploy mode: deploy
+        
+        uid: 556c25e91a47d
+    -->
+
+    <script type='text/javascript' src='http://hamo.vn/wp-content/themes/Newspaper/js/td_external.js?ver=4.5d'></script>
+<script type='text/javascript' src='http://hamo.vn/wp-content/themes/Newspaper/js/full_compact/site.js?ver=4.5d'></script>
+<script type='text/javascript' src='http://hamo.vn/wp-includes/js/comment-reply.min.js?ver=4.2.1'></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&appId=148177838713783&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+</script>
+
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: hamo.vn @ 2015-06-01 16:29:13 by W3 Total Cache -->
